@@ -1,6 +1,10 @@
 <h1 align="center">👋 Hello, I'm Ari Eka Prianda</h1>
 
 <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7DF1E&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Mobile+App+Developer;Tech+Enthusiast;Open+to+Collaboration!" alt="Typing SVG" />
+</p>
+
+<p align="center">
   <b>Full Stack Developer | Mobile App Developer | Tech Enthusiast</b>
 </p>
 
@@ -8,6 +12,9 @@
   <a href="https://www.linkedin.com/in/ari-eka-prianda-78714232a">
     <img class="badge" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+  <a href="https://www.instagram.com/ARIEKAPRIANDA47" target="_blank">
+    <img class="badge" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
   <a href="mailto:ariekaprianda@gmail.com">
     <img class="badge" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
@@ -43,6 +50,12 @@ Let’s create something amazing together! 🚀
 
 ---
 
+## 🐍 GitHub Contribution Snake  
+<p align="center">
+  <img src="https://github.com/ariekakagerou/ariekakagerou/blob/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation">
+</p>
+
+---
 ## 💻 Tech Stack:
 ### **Languages**  
 <p align="left">
@@ -103,29 +116,14 @@ Let’s create something amazing together! 🚀
 </div>
 
 ---
-### 🎇 Fun Animation - Contribution Snake 🐍
+
+## 🎨 Fun GIF Banner  
 <p align="center">
-  <img src="https://github.com/ariekakagerou/ariekakagerou/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" />
 </p>
 
 ---
 
 [![](https://visitcount.itsvg.in/api?id=ariekakagerou&icon=2&color=13)](https://visitcount.itsvg.in)
-
-<style>
-  .wave {
-    display: inline-block;
-    animation: wave 1.5s infinite;
-  }
-
-  @keyframes wave {
-    0%, 100% { transform: rotate(0deg); }
-    50% { transform: rotate(20deg); }
-  }
-
-  .badge:hover {
-    filter: brightness(1.5) drop-shadow(0 0 10px #f7df1e);
-  }
-</style>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

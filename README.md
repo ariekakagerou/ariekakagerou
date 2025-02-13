@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <b>Full Stack Developer | Mobile App Developer | Tech Enthusiast</b>
+  <b>Full Stack & Mobile App Developer | UI/UX Enthusiast</b>
 </p>
 
 <p align="center">
@@ -50,12 +50,6 @@ Let’s create something amazing together! 🚀
 
 ---
 
-## 🐍 GitHub Contribution Snake  
-<p align="center">
-  <img src="https://github.com/ariekakagerou/ariekakagerou/blob/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation">
-</p>
-
----
 ## 💻 Tech Stack:
 ### **Languages**  
 <p align="left">
@@ -114,13 +108,6 @@ Let’s create something amazing together! 🚀
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ariekakagerou&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact" width="48%" />
 </div>
-
----
-
-## 🎨 Fun GIF Banner  
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" />
-</p>
 
 ---
 

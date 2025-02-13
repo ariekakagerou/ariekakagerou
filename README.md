@@ -6,10 +6,10 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ari-eka-prianda-78714232a">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img class="badge" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:ariekaprianda@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img class="badge" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
@@ -93,17 +93,6 @@ Let’s create something amazing together! 🚀
 </p>
 
 ---
-## 🎯 Fun Facts  
-- 🔥 I built my first app when I was 16!  
-- 🚀 Love to solve algorithmic challenges.  
-- 🎸 Guitar & Anime lover!  
-
-## 🛠️ What I'm Working On  
-- 🚀 Building a new **Flutter App**  
-- 🔥 Experimenting with **AI & Machine Learning**  
-- 🎯 Learning more about **Blockchain Development**  
-
----
 
 ## 📊 GitHub Stats:
 <div align="center">
@@ -113,11 +102,30 @@ Let’s create something amazing together! 🚀
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ariekakagerou&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact" width="48%" />
 </div>
 
-### ✍️ Random Dev Quote  
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+---
+### 🎇 Fun Animation - Contribution Snake 🐍
+<p align="center">
+  <img src="https://github.com/ariekakagerou/ariekakagerou/blob/output/github-contribution-grid-snake.svg" />
+</p>
 
 ---
 
 [![](https://visitcount.itsvg.in/api?id=ariekakagerou&icon=2&color=13)](https://visitcount.itsvg.in)
+
+<style>
+  .wave {
+    display: inline-block;
+    animation: wave 1.5s infinite;
+  }
+
+  @keyframes wave {
+    0%, 100% { transform: rotate(0deg); }
+    50% { transform: rotate(20deg); }
+  }
+
+  .badge:hover {
+    filter: brightness(1.5) drop-shadow(0 0 10px #f7df1e);
+  }
+</style>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

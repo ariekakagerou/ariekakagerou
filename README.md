@@ -103,11 +103,21 @@ Let’s create something amazing together! 🚀
 
 ## 📊 GitHub Stats:
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ariekakagerou&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ariekakagerou&theme=tokyonight&hide_border=false" width="48%" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ariekakagerou&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact" width="48%" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=ariekakagerou&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false" 
+    width="48%" 
+  />
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=ariekakagerou&theme=tokyonight&hide_border=false" 
+    width="48%" 
+  />
+  <br />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ariekakagerou&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact" 
+    width="48%" 
+  />
 </div>
+
 
 ---
 

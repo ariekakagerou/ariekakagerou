@@ -4,6 +4,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7DF1E&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Mobile+App+Developer;UI%2FUX+Enthusiast;Problem+Solver;Lifelong+Learner;Open+to+Collaboration!" alt="Typing SVG" />
 </p>
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
+</div>
+
 <p align="center">
   <b>✨ Crafting Digital Experiences | Transforming Ideas into Reality ✨</b>
 </p>
@@ -29,23 +33,29 @@
 
 ---
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+</div>
+
 ## 🚀 About Me
 
-Hey there! 👋 I'm **Ari Eka Prianda**, an aspiring **Full Stack Developer** and **Mobile App Developer** with a passion for creating intuitive and impactful digital experiences.
+<img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="200">
 
-Currently pursuing **Computer Science at Universitas Binaniaga**, I'm enthusiastically building my skills and knowledge in software development. My technical journey is driven by curiosity and a desire to solve real-world problems through innovative technology solutions.
+Hey there! 👋 I'm **Ari Eka Prianda**, a passionate **Full Stack Developer** and **Mobile App Developer** with a keen eye for UI/UX design. I transform complex problems into elegant, user-friendly solutions.
+
+Currently pursuing **Computer Science at Universitas Binaniaga**, I'm on a mission to create technology that makes a meaningful impact. My journey in tech is driven by curiosity and the desire to continuously learn and grow.
 
 ### What Drives Me:
-- 💡 **Innovation**: Exploring cutting-edge technologies and frameworks
+- 💡 **Innovation**: Constantly exploring cutting-edge technologies
 - 🔍 **Problem-Solving**: Finding elegant solutions to complex challenges
 - 🌟 **User Experience**: Creating intuitive and delightful interfaces
-- 🚀 **Continuous Learning**: Always expanding my technical knowledge
-- 🤝 **Collaboration**: Working with others to create something greater than the sum of its parts
+- 🚀 **Performance**: Building fast, efficient, and scalable applications
+- 🤝 **Collaboration**: Working with teams to create something greater than the sum of its parts
 
 ### When I'm Not Coding:
 - 📚 Expanding my knowledge through books and online courses
 - 🎮 Gaming to relax and spark creativity
-- 🌱 Working on personal projects to apply new skills
+- 🌱 Exploring new technologies and frameworks
 - 🏋️‍♂️ Maintaining a healthy work-life balance through exercise
 
 **Let's connect and create something amazing together!** 🚀
@@ -57,11 +67,11 @@ Currently pursuing **Computer Science at Universitas Binaniaga**, I'm enthusiast
 > "Code is like humor. When you have to explain it, it's bad." - Cory House
 
 I believe in:
-- ✅ Writing clean, maintainable code
-- 📈 Building with scalability in mind
-- 👤 Prioritizing user experience
-- 🔄 Embracing continuous learning
-- 📋 Following best practices and patterns
+- Writing clean, maintainable code
+- Building with scalability in mind
+- Prioritizing user experience
+- Embracing continuous learning
+- Following best practices and patterns
 
 ---
 
@@ -138,59 +148,21 @@ I believe in:
 
 ---
 
-## 🌟 Projects & Portfolio
+## 🌟 Featured Projects
 
-### 💻 Personal Projects
-
-#### 🛒 E-Commerce Mobile App
-A Flutter-based mobile application with Firebase backend featuring product browsing, cart management, and secure checkout.
-- **Technologies**: Flutter, Dart, Firebase, RESTful APIs
-- **Features**: User authentication, product catalog, shopping cart, payment integration
-
-#### 🌐 Personal Portfolio Website
-A responsive portfolio website showcasing my skills and projects.
-- **Technologies**: React, Next.js, Tailwind CSS
-- **Features**: Responsive design, dark/light mode, project showcase, contact form
-
-#### 📝 Task Management System
-A web application for managing tasks and projects with team collaboration features.
-- **Technologies**: MERN Stack (MongoDB, Express, React, Node.js)
-- **Features**: Task creation, assignment, progress tracking, team management
-
-### 🎓 Academic Projects
-
-#### 📊 Data Analysis Dashboard
-A dashboard for visualizing and analyzing data sets with interactive charts and filters.
-- **Technologies**: Python, Pandas, Plotly, Flask
-- **Features**: Data visualization, filtering, export options
-
-#### 🎮 2D Game Development
-A simple 2D game developed as part of a programming course.
-- **Technologies**: Unity, C#
-- **Features**: Character movement, obstacle avoidance, score tracking
-
----
-
-## 🎓 Education
-
-### Bachelor of Computer Science
-**Universitas Binaniaga** | 2021 - Present
-- 📚 Relevant coursework: Data Structures, Algorithms, Database Systems, Web Development, Mobile App Development
-- 💻 Participated in coding competitions and hackathons
-- 🌐 Member of the university's Computer Science Club
-
-### Online Certifications
-- 📱 **Flutter Development Bootcamp** - App Brewery (2023)
-- 🌐 **Full Stack Web Development** - Udemy (2022)
-- 🖥️ **Responsive Web Design** - freeCodeCamp (2022)
-- 🔐 **AWS Cloud Practitioner** - Amazon Web Services (2023)
+<div align="center">
+  <a href="https://github.com/ariekakagerou/project-name">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ariekakagerou&repo=ariekakagerou&theme=tokyonight&hide_border=true" alt="Featured Project" />
+  </a>
+  <!-- Add more featured projects as needed -->
+</div>
 
 ---
 
 ## 📫 Let's Connect!
 
 <div align="center">
-  <p>I'm always open to interesting conversations, collaborations, and learning opportunities!</p>
+  <p>I'm always open to interesting conversations, collaborations, and opportunities!</p>
   <a href="mailto:ariekaprianda@gmail.com">
     <img src="https://img.shields.io/badge/Email_Me-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
@@ -206,6 +178,10 @@ A simple 2D game developed as part of a programming course.
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 </div>
 
 ---

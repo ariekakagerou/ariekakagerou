@@ -31,21 +31,21 @@
 
 ## 🚀 About Me
 
-Hey there! 👋 I'm **Ari Eka Prianda**, a passionate **Full Stack Developer** and **Mobile App Developer** with a keen eye for UI/UX design. I transform complex problems into elegant, user-friendly solutions.
+Hey there! 👋 I'm **Ari Eka Prianda**, an aspiring **Full Stack Developer** and **Mobile App Developer** with a passion for creating intuitive and impactful digital experiences.
 
-Currently pursuing **Computer Science at Universitas Binaniaga**, I'm on a mission to create technology that makes a meaningful impact. My journey in tech is driven by curiosity and the desire to continuously learn and grow.
+Currently pursuing **Computer Science at Universitas Binaniaga**, I'm enthusiastically building my skills and knowledge in software development. My technical journey is driven by curiosity and a desire to solve real-world problems through innovative technology solutions.
 
 ### What Drives Me:
-- 💡 **Innovation**: Constantly exploring cutting-edge technologies
+- 💡 **Innovation**: Exploring cutting-edge technologies and frameworks
 - 🔍 **Problem-Solving**: Finding elegant solutions to complex challenges
 - 🌟 **User Experience**: Creating intuitive and delightful interfaces
-- 🚀 **Performance**: Building fast, efficient, and scalable applications
-- 🤝 **Collaboration**: Working with teams to create something greater than the sum of its parts
+- 🚀 **Continuous Learning**: Always expanding my technical knowledge
+- 🤝 **Collaboration**: Working with others to create something greater than the sum of its parts
 
 ### When I'm Not Coding:
 - 📚 Expanding my knowledge through books and online courses
 - 🎮 Gaming to relax and spark creativity
-- 🌱 Exploring new technologies and frameworks
+- 🌱 Working on personal projects to apply new skills
 - 🏋️‍♂️ Maintaining a healthy work-life balance through exercise
 
 **Let's connect and create something amazing together!** 🚀
@@ -138,32 +138,36 @@ I believe in:
 
 ---
 
-## 🌟 Featured Projects
+## 🌟 Projects & Portfolio
 
-<div align="center">
-  <a href="https://github.com/ariekakagerou/project-name">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ariekakagerou&repo=ariekakagerou&theme=tokyonight&hide_border=true" alt="Featured Project" />
-  </a>
-  <!-- Add more featured projects as needed -->
-</div>
+### 💻 Personal Projects
 
----
+#### 🛒 E-Commerce Mobile App
+A Flutter-based mobile application with Firebase backend featuring product browsing, cart management, and secure checkout.
+- **Technologies**: Flutter, Dart, Firebase, RESTful APIs
+- **Features**: User authentication, product catalog, shopping cart, payment integration
 
-## 💼 Professional Experience
+#### 🌐 Personal Portfolio Website
+A responsive portfolio website showcasing my skills and projects.
+- **Technologies**: React, Next.js, Tailwind CSS
+- **Features**: Responsive design, dark/light mode, project showcase, contact form
 
-### Full Stack Developer | ABC Tech Company
-📅 Jan 2023 - Present
-- 🔧 Developed and maintained multiple web applications using React, Node.js, and MySQL
-- 📱 Created responsive UI components with Tailwind CSS and Material UI
-- 🔄 Implemented CI/CD pipelines using GitHub Actions
-- 👥 Collaborated with cross-functional teams to deliver high-quality software solutions
+#### 📝 Task Management System
+A web application for managing tasks and projects with team collaboration features.
+- **Technologies**: MERN Stack (MongoDB, Express, React, Node.js)
+- **Features**: Task creation, assignment, progress tracking, team management
 
-### Mobile App Developer | XYZ Mobile Solutions
-📅 Jun 2022 - Dec 2022
-- 📱 Built mobile applications using Flutter and Firebase
-- 🔧 Implemented RESTful API integration and state management
-- 🎨 Created intuitive UI/UX designs with Material Design principles
-- 🚀 Deployed apps to Google Play Store and Apple App Store
+### 🎓 Academic Projects
+
+#### 📊 Data Analysis Dashboard
+A dashboard for visualizing and analyzing data sets with interactive charts and filters.
+- **Technologies**: Python, Pandas, Plotly, Flask
+- **Features**: Data visualization, filtering, export options
+
+#### 🎮 2D Game Development
+A simple 2D game developed as part of a programming course.
+- **Technologies**: Unity, C#
+- **Features**: Character movement, obstacle avoidance, score tracking
 
 ---
 
@@ -171,16 +175,22 @@ I believe in:
 
 ### Bachelor of Computer Science
 **Universitas Binaniaga** | 2021 - Present
-- 📚 Relevant coursework: Data Structures, Algorithms, Database Management, Web Development
-- 🏆 Dean's List: 2022, 2023
+- 📚 Relevant coursework: Data Structures, Algorithms, Database Systems, Web Development, Mobile App Development
 - 💻 Participated in coding competitions and hackathons
+- 🌐 Member of the university's Computer Science Club
+
+### Online Certifications
+- 📱 **Flutter Development Bootcamp** - App Brewery (2023)
+- 🌐 **Full Stack Web Development** - Udemy (2022)
+- 🖥️ **Responsive Web Design** - freeCodeCamp (2022)
+- 🔐 **AWS Cloud Practitioner** - Amazon Web Services (2023)
 
 ---
 
 ## 📫 Let's Connect!
 
 <div align="center">
-  <p>I'm always open to interesting conversations, collaborations, and opportunities!</p>
+  <p>I'm always open to interesting conversations, collaborations, and learning opportunities!</p>
   <a href="mailto:ariekaprianda@gmail.com">
     <img src="https://img.shields.io/badge/Email_Me-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>

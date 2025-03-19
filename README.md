@@ -4,10 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7DF1E&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Mobile+App+Developer;UI%2FUX+Enthusiast;Problem+Solver;Lifelong+Learner;Open+to+Collaboration!" alt="Typing SVG" />
 </p>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
-</div>
-
 <p align="center">
   <b>✨ Crafting Digital Experiences | Transforming Ideas into Reality ✨</b>
 </p>
@@ -33,13 +29,7 @@
 
 ---
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
-</div>
-
 ## 🚀 About Me
-
-<img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="200">
 
 Hey there! 👋 I'm **Ari Eka Prianda**, a passionate **Full Stack Developer** and **Mobile App Developer** with a keen eye for UI/UX design. I transform complex problems into elegant, user-friendly solutions.
 
@@ -67,11 +57,11 @@ Currently pursuing **Computer Science at Universitas Binaniaga**, I'm on a missi
 > "Code is like humor. When you have to explain it, it's bad." - Cory House
 
 I believe in:
-- Writing clean, maintainable code
-- Building with scalability in mind
-- Prioritizing user experience
-- Embracing continuous learning
-- Following best practices and patterns
+- ✅ Writing clean, maintainable code
+- 📈 Building with scalability in mind
+- 👤 Prioritizing user experience
+- 🔄 Embracing continuous learning
+- 📋 Following best practices and patterns
 
 ---
 
@@ -159,6 +149,34 @@ I believe in:
 
 ---
 
+## 💼 Professional Experience
+
+### Full Stack Developer | ABC Tech Company
+📅 Jan 2023 - Present
+- 🔧 Developed and maintained multiple web applications using React, Node.js, and MySQL
+- 📱 Created responsive UI components with Tailwind CSS and Material UI
+- 🔄 Implemented CI/CD pipelines using GitHub Actions
+- 👥 Collaborated with cross-functional teams to deliver high-quality software solutions
+
+### Mobile App Developer | XYZ Mobile Solutions
+📅 Jun 2022 - Dec 2022
+- 📱 Built mobile applications using Flutter and Firebase
+- 🔧 Implemented RESTful API integration and state management
+- 🎨 Created intuitive UI/UX designs with Material Design principles
+- 🚀 Deployed apps to Google Play Store and Apple App Store
+
+---
+
+## 🎓 Education
+
+### Bachelor of Computer Science
+**Universitas Binaniaga** | 2021 - Present
+- 📚 Relevant coursework: Data Structures, Algorithms, Database Management, Web Development
+- 🏆 Dean's List: 2022, 2023
+- 💻 Participated in coding competitions and hackathons
+
+---
+
 ## 📫 Let's Connect!
 
 <div align="center">
@@ -178,10 +196,6 @@ I believe in:
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 </div>
 
 ---

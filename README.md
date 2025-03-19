@@ -1,11 +1,15 @@
 <h1 align="center">👋 Hello, I'm Ari Eka Prianda</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7DF1E&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Mobile+App+Developer;Tech+Enthusiast;Open+to+Collaboration!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7DF1E&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Mobile+App+Developer;UI%2FUX+Enthusiast;Problem+Solver;Lifelong+Learner;Open+to+Collaboration!" alt="Typing SVG" />
 </p>
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
+</div>
+
 <p align="center">
-  <b>Full Stack & Mobile App Developer | UI/UX Enthusiast</b>
+  <b>✨ Crafting Digital Experiences | Transforming Ideas into Reality ✨</b>
 </p>
 
 <p align="center">
@@ -14,9 +18,12 @@
   </a>
   <a href="https://www.instagram.com/ARIEKAPRIANDA47" target="_blank">
     <img class="badge" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
+  </a>
   <a href="mailto:ariekaprianda@gmail.com">
     <img class="badge" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/ariekakagerou">
+    <img class="badge" src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
@@ -26,96 +33,160 @@
 
 ---
 
-## 🚀 About Me  
-Hey there! 👋 I'm **Ari Eka Prianda**, a **passionate Full Stack Developer** and **Mobile App Developer** with a deep love for technology.  
-Currently pursuing **Computer Science at Universitas Binaniaga**, I thrive on building innovative software solutions that make an impact.  
-
-💡 Always exploring **cutting-edge technologies**  
-🔥 Passionate about **problem-solving & scalable solutions**  
-🤝 Open to **collaborations & exciting projects**  
-
-Let’s create something amazing together! 🚀  
-
----
-
-## 🏆 GitHub Profile Trophy  
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ariekakagerou&theme=darkhub" />
-</p>
-
-## 📈 GitHub Activity Graph  
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ariekakagerou&theme=tokyo-night" />
-</p>
-
----
-
-## 💻 Tech Stack:
-### **Languages**  
-<p align="left">
-  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
-</p>
-<p align="left">
-  <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
-</p>
-
-### **Frameworks & Libraries**  
-<p align="left">
-  <img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white"/>
-</p>
-<p align="left">
-  <img src="https://img.shields.io/badge/Node.js-%236DA55F.svg?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/.NET-%235C2D91.svg?style=for-the-badge&logo=.net&logoColor=white"/>
-</p>
-
-### **Tools & Platforms**  
-<p align="left">
-  <img src="https://img.shields.io/badge/Ionic-%233880FF.svg?style=for-the-badge&logo=ionic&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black"/>
-  <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
-</p>
-<p align="left">
-  <img src="https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JWT-%23000000.svg?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
-</p>
-
-### **Design & Version Control**  
-<p align="left">
-  <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
-</p>
-
----
-
-## 📊 GitHub Stats:
 <div align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=ariekakagerou&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false" 
-    width="48%" 
-  />
-    <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ariekakagerou&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact" 
-    width="48%" 
-  />
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 </div>
 
+## 🚀 About Me
+
+<img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="200">
+
+Hey there! 👋 I'm **Ari Eka Prianda**, a passionate **Full Stack Developer** and **Mobile App Developer** with a keen eye for UI/UX design. I transform complex problems into elegant, user-friendly solutions.
+
+Currently pursuing **Computer Science at Universitas Binaniaga**, I'm on a mission to create technology that makes a meaningful impact. My journey in tech is driven by curiosity and the desire to continuously learn and grow.
+
+### What Drives Me:
+- 💡 **Innovation**: Constantly exploring cutting-edge technologies
+- 🔍 **Problem-Solving**: Finding elegant solutions to complex challenges
+- 🌟 **User Experience**: Creating intuitive and delightful interfaces
+- 🚀 **Performance**: Building fast, efficient, and scalable applications
+- 🤝 **Collaboration**: Working with teams to create something greater than the sum of its parts
+
+### When I'm Not Coding:
+- 📚 Expanding my knowledge through books and online courses
+- 🎮 Gaming to relax and spark creativity
+- 🌱 Exploring new technologies and frameworks
+- 🏋️‍♂️ Maintaining a healthy work-life balance through exercise
+
+**Let's connect and create something amazing together!** 🚀
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=ariekakagerou&icon=2&color=13)](https://visitcount.itsvg.in)
+## 🛠️ My Development Philosophy
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+> "Code is like humor. When you have to explain it, it's bad." - Cory House
+
+I believe in:
+- Writing clean, maintainable code
+- Building with scalability in mind
+- Prioritizing user experience
+- Embracing continuous learning
+- Following best practices and patterns
+
+---
+
+## 🏆 GitHub Profile Trophy
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ariekakagerou&theme=darkhub&row=1&column=6&margin-w=15" />
+</p>
+
+## 📈 GitHub Activity Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ariekakagerou&theme=tokyo-night&hide_border=true&bg_color=0D1117" />
+</p>
+
+---
+
+## 💻 Tech Stack
+
+<table>
+  <tr>
+    <td valign="top" width="33%">
+      <h3 align="center">Languages</h3>
+      <div align="center">
+        <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+        <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
+        <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+        <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+        <img src="https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
+        <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+        <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+      </div>
+    </td>
+    <td valign="top" width="33%">
+      <h3 align="center">Frameworks & Libraries</h3>
+      <div align="center">
+        <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React.js" />
+        <img src="https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+        <img src="https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
+        <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+        <img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+        <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+        <img src="https://img.shields.io/badge/Node.js-%236DA55F.svg?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+        <img src="https://img.shields.io/badge/Tailwind-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+      </div>
+    </td>
+    <td valign="top" width="33%">
+      <h3 align="center">Tools & Platforms</h3>
+      <div align="center">
+        <img src="https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+        <img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+        <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+        <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+        <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+        <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+        <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+        <img src="https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+      </div>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🔥 My Streak Stats
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ariekakagerou&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
+## 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ariekakagerou&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ariekakagerou&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" width="48%" />
+</div>
+
+---
+
+## 🌟 Featured Projects
+
+<div align="center">
+  <a href="https://github.com/ariekakagerou/project-name">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ariekakagerou&repo=ariekakagerou&theme=tokyonight&hide_border=true" alt="Featured Project" />
+  </a>
+  <!-- Add more featured projects as needed -->
+</div>
+
+---
+
+## 📫 Let's Connect!
+
+<div align="center">
+  <p>I'm always open to interesting conversations, collaborations, and opportunities!</p>
+  <a href="mailto:ariekaprianda@gmail.com">
+    <img src="https://img.shields.io/badge/Email_Me-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/ari-eka-prianda-78714232a">
+    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.instagram.com/ARIEKAPRIANDA47">
+    <img src="https://img.shields.io/badge/Follow_on_Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+</div>
+
+---
+
+<div align="center">
+  <img src="https://visitcount.itsvg.in/api?id=ariekakagerou&icon=2&color=6" alt="Profile Views" />
+  <p>Thanks for visiting my profile! Have a great day! 😊</p>
+</div>

@@ -5,9 +5,8 @@
 </p>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" />
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="200" />
 </div>
-
 
 <p align="center">
   <b>✨ Crafting Digital Experiences | Transforming Ideas into Reality ✨</b>

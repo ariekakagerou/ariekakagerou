@@ -155,10 +155,7 @@ I believe in:
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ariekakagerou&repo=jobcom&theme=tokyonight&hide_border=true" alt="Jobcom" />
   </a>
   
-  <a href="https://github.com/ariekakagerou/SweetTreatsApps-back-end">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ariekakagerou&repo=SweetTreatsApps-back-end&theme=tokyonight&hide_border=true" alt="SweetTreatsApps Back-End" />
-  </a>
-  
+ 
   <a href="https://github.com/ariekakagerou/miracleChat">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ariekakagerou&repo=miracleChat&theme=tokyonight&hide_border=true" alt="MiracleChat" />
   </a>

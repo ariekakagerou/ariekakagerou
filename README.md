@@ -203,7 +203,7 @@ I believe in:
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ariekakagerou&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-  <p>Thanks for visiting my profile! Have a great day! 😊</p>
+  <img src="https://img.shields.io/badge/%F0%9F%91%80_Profile_Views-Appreciated!-yellow?style=for-the-badge" alt="Profile Views" />
+  <p>Thanks for checking out my profile! 😊🚀</p>
 </div>
 

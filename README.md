@@ -175,19 +175,11 @@ I believe in:
 
 ---
 
-## 📫 Let's Connect!
+## 🙌 Thank You for Visiting!
 
 <div align="center">
-  <p>I'm always open to interesting conversations, collaborations, and opportunities!</p>
-  <a href="mailto:ariekaprianda@gmail.com">
-    <img src="https://img.shields.io/badge/Email_Me-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://www.linkedin.com/in/ari-eka-prianda-78714232a">
-    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://www.instagram.com/ARIEKAPRIANDA47">
-    <img src="https://img.shields.io/badge/Follow_on_Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
+  <p>Thanks for scrolling through! I hope you found something inspiring or useful here.</p>
+  <p>Keep learning, keep building, and keep being awesome! 💻🚀</p>
 </div>
 
 <br>
@@ -196,14 +188,16 @@ I believe in:
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
 </div>
 
+<br>
+
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 </div>
 
----
+<br>
 
 <div align="center">
   <img src="https://img.shields.io/badge/%F0%9F%91%80_Profile_Views-Appreciated!-yellow?style=for-the-badge" alt="Profile Views" />
-  <p>Thanks for checking out my profile! 😊🚀</p>
+  <p>Thanks for checking out my profile! 😊</p>
 </div>
 

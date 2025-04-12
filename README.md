@@ -203,6 +203,7 @@ I believe in:
 ---
 
 <div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=ariekakagerou&icon=2&color=6" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=ariekakagerou&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
   <p>Thanks for visiting my profile! Have a great day! 😊</p>
 </div>
+

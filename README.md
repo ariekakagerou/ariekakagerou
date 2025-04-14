@@ -164,8 +164,12 @@ I believe in:
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ariekakagerou&repo=miracleChat-back-end&theme=tokyonight&hide_border=true" alt="MiracleChat Back-End" />
   </a>
   
-  <a href="https://github.com/ariekakagerou/my-portfolio">
+  <a href="https://github.com/ariekakagerou/authhub">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ariekakagerou&repo=authhub&theme=tokyonight&hide_border=true" alt="authhub" />
+  </a>
+  
+ <a href="https://github.com/ariekakagerou/AuthHub-back-end">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ariekakagerou&repo=AuthHub-back-end&theme=tokyonight&hide_border=true" alt="AuthHub-back-end" />
   </a>
   
   <a href="https://github.com/ariekakagerou/School_App">

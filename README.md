@@ -156,7 +156,6 @@ I believe in:
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ariekakagerou&repo=jobcom&theme=tokyonight&hide_border=true" alt="Jobcom" />
   </a>
   
- 
   <a href="https://github.com/ariekakagerou/miracleChat">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ariekakagerou&repo=miracleChat&theme=tokyonight&hide_border=true" alt="MiracleChat" />
   </a>
@@ -166,13 +165,23 @@ I believe in:
   </a>
   
   <a href="https://github.com/ariekakagerou/my-portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ariekakagerou&repo=my-portfolio&theme=tokyonight&hide_border=true" alt="My Portfolio" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ariekakagerou&repo=authhub&theme=tokyonight&hide_border=true" alt="authhub" />
   </a>
   
   <a href="https://github.com/ariekakagerou/School_App">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ariekakagerou&repo=Youth-Tiger-Soccer-School-back-end-&theme=tokyonight&hide_border=true" alt="School App" />
   </a>
 </div>
+
+---
+
+## 🔗 Other Projects
+
+- [go-pasien-crud](https://github.com/ariekakagerou/go-pasien-crud)  
+- [perpustakaan2](https://github.com/ariekakagerou/perpustakaan2)  
+- [SweetTreatsApps-back-end](https://github.com/ariekakagerou/SweetTreatsApps-back-end-)  
+- [sweettreatsapps](https://github.com/ariekakagerou/sweettreatsapps)
+
 
 ---
 

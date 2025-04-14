@@ -170,7 +170,7 @@ I believe in:
   </a>
   
   <a href="https://github.com/ariekakagerou/School_App">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ariekakagerou&repo=School_App&theme=tokyonight&hide_border=true" alt="School App" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ariekakagerou&repo=Youth-Tiger-Soccer-School-back-end-&theme=tokyonight&hide_border=true" alt="School App" />
   </a>
 </div>
 

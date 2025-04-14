@@ -176,7 +176,7 @@ I believe in:
 ---
 
 ## 🔗 Other Projects
-
+- [school_Apps](https://github.com/ariekakagerou/school_apps)  
 - [go-pasien-crud](https://github.com/ariekakagerou/go-pasien-crud)  
 - [perpustakaan2](https://github.com/ariekakagerou/perpustakaan2)  
 - [SweetTreatsApps-back-end](https://github.com/ariekakagerou/SweetTreatsApps-back-end-)  

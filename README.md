@@ -1,289 +1,364 @@
 # 👋 Hello, I'm Ari Eka Prianda
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7DF1E&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Mobile+App+Developer;UI%2FUX+Enthusiast;Problem+Solver;Lifelong+Learner;Open+to+Collaboration!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7DF1E&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Mobile+App+Developer;UI%2FUX+Enthusiast;Problem+Solver;Lifelong+Learner;Open+to+Collaboration!" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="200" />
+<img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="200" />
 </div>
 
 <p align="center">
-  <b>✨ Crafting Digital Experiences | Transforming Ideas into Reality ✨</b>
+<b>✨ Crafting Digital Experiences | Transforming Ideas into Reality ✨</b>
 </p>
-
-### 🔗 Connect With Me
-
-<div align="center">
-  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ari-eka-prianda-78714232a)
-  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ARIEKAPRIANDA47)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ariekaprianda@gmail.com)
-  [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ariekakagerou)
-  
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ariekakagerou&label=Profile%20views&color=blue&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/ariekakagerou?label=Followers&style=social" alt="Followers" />
-</div>
-
----
-
-## 🎮 GitHub Contribution Snake Game
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
-
-<div align="center">
-  <p><b>🐍 Watch the snake eat my contributions!</b></p>
-</div>
 
 ---
 
 ## 🚀 About Me
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="200" alt="Developer Animation" />
+I'm a passionate **Full Stack & Mobile Developer** from Indonesia 🇮🇩, dedicated to building innovative solutions that make a difference. I love turning complex problems into simple, beautiful, and intuitive designs.
 
-Hi there! 👋 I'm **Ari Eka Prianda**, a passionate **Full Stack Developer** and **Mobile App Developer** with a keen eye for UI/UX design. I transform complex problems into elegant, user-friendly solutions.
-
-Currently pursuing **Computer Science at Universitas Binaniaga**, I'm on a mission to create technology that makes a meaningful impact. My journey in tech is driven by curiosity and the desire to continuously learn and grow.
-
-### What Drives Me
-
-- 💡 **Innovation** — Constantly exploring cutting-edge technologies
-- 🔍 **Problem-Solving** — Finding elegant solutions to complex challenges  
-- 🌟 **User Experience** — Creating intuitive and delightful interfaces
-- 🚀 **Performance** — Building fast, efficient, and scalable applications
-- 🤝 **Collaboration** — Working with teams to create something greater than the sum of its parts
-
-### When I'm Not Coding
-
-- 📚 Expanding my knowledge through books and online courses
-- 🎮 Gaming to relax and spark creativity
-- 🌱 Exploring new technologies and frameworks
-- 🏋️ Maintaining a healthy work-life balance through exercise
-
-**Let's connect and create something amazing together!** 🚀
-
----
-
-## 💭 My Development Philosophy
-
-> "Code is like humor. When you have to explain it, it's bad." — Cory House
-
-I believe in:
-- ✍️ Writing clean, maintainable code
-- 📦 Building with scalability in mind
-- 👥 Prioritizing user experience
-- 📖 Embracing continuous learning
-- ✅ Following best practices and patterns
+```javascript
+const ari = {
+    location: "Bogor, Indonesia 🌏",
+    currentFocus: "Building scalable web & mobile applications",
+    interests: ["Clean Code", "UI/UX Design", "Open Source", "AI/ML"],
+    funFact: "I debug with console.log and I'm not ashamed! 😄",
+    lifePhilosophy: "Code with passion, debug with patience"
+};
+```
 
 ---
 
 ## 💻 Tech Stack
 
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <h3>Languages</h3>
-      <div>
-        <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-        <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-        <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
-        <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-        <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-        <img src="https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
-        <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-        <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-      </div>
-    </td>
-    <td align="center" width="33%">
-      <h3>Frameworks & Libraries</h3>
-      <div>
-        <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React.js" />
-        <img src="https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
-        <img src="https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
-        <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
-        <img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
-        <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
-        <img src="https://img.shields.io/badge/Node.js-%236DA55F.svg?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-        <img src="https://img.shields.io/badge/Tailwind-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-      </div>
-    </td>
-    <td align="center" width="33%">
-      <h3>Tools & Platforms</h3>
-      <div>
-        <img src="https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
-        <img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-        <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-        <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-        <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-        <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
-        <img src="https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-        <img src="https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
-      </div>
-    </td>
-  </tr>
-</table>
-
----
-
-## 📊 GitHub Statistics
-
-### 🏆 GitHub Trophies
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ariekakagerou&theme=darkhub&row=1&column=7&margin-w=10&no-frame=false" alt="GitHub Trophies" />
-</div>
 
-### 🔥 Streak Stats
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ariekakagerou&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
+### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
+![Vue.js](https://img.shields.io/badge/Vue.js-%234FC08D.svg?style=for-the-badge&logo=vue.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### 📈 GitHub Stats & Languages
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ariekakagerou&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ariekakagerou&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" width="48%" />
-</div>
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 
-### 📊 Activity Graph
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ariekakagerou&theme=tokyo-night&hide_border=true&bg_color=0D1117" alt="GitHub Activity Graph" />
+### Mobile Development
+![React Native](https://img.shields.io/badge/React_Native-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
+![Android](https://img.shields.io/badge/Android-%233DDC84.svg?style=for-the-badge&logo=android&logoColor=white)
+
+### Database
+![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)
+
+### Tools & Others
+![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
 </div>
 
 ---
 
-## 🌟 Featured Projects
+## 📊 GitHub Stats
 
 <div align="center">
   
-  [![Jobcom](https://github-readme-stats.vercel.app/api/pin/?username=ariekakagerou&repo=jobcom&theme=tokyonight&hide_border=true)](https://github.com/ariekakagerou/jobcom)
-  [![MiracleChat](https://github-readme-stats.vercel.app/api/pin/?username=ariekakagerou&repo=miracleChat&theme=tokyonight&hide_border=true)](https://github.com/ariekakagerou/miracleChat)
-  
-  [![MiracleChat Back-End](https://github-readme-stats.vercel.app/api/pin/?username=ariekakagerou&repo=miracleChat-back-end&theme=tokyonight&hide_border=true)](https://github.com/ariekakagerou/miracleChat-back-end)
-  [![AuthHub](https://github-readme-stats.vercel.app/api/pin/?username=ariekakagerou&repo=authhub&theme=tokyonight&hide_border=true)](https://github.com/ariekakagerou/authhub)
-  
-  [![AuthHub Back-End](https://github-readme-stats.vercel.app/api/pin/?username=ariekakagerou&repo=AuthHub-back-end&theme=tokyonight&hide_border=true)](https://github.com/ariekakagerou/AuthHub-back-end)
-  [![School App](https://github-readme-stats.vercel.app/api/pin/?username=ariekakagerou&repo=School_App&theme=tokyonight&hide_border=true)](https://github.com/ariekakagerou/School_App)
-  
-</div>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ariekaprianda&show_icons=true&theme=radical&hide_border=true&count_private=true)
 
----
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ariekaprianda&layout=compact&theme=radical&hide_border=true)
 
-## 🔗 Other Notable Projects
-
-- [school_apps](https://github.com/ariekakagerou/school_apps) — School management application
-- [go-pasien-crud](https://github.com/ariekakagerou/go-pasien-crud) — Patient CRUD system in Go
-- [perpustakaan2](https://github.com/ariekakagerou/perpustakaan2) — Library management system
-- [SweetTreatsApps-back-end](https://github.com/ariekakagerou/SweetTreatsApps-back-end-) — Backend for Sweet Treats application
-- [sweettreatsapps](https://github.com/ariekakagerou/sweettreatsapps) — Sweet Treats mobile/web application
-
----
-
-## 🎯 What I'm Currently Working On
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">🔨</td>
-      <td>Building innovative solutions with modern technologies</td>
-    </tr>
-    <tr>
-      <td align="center">📱</td>
-      <td>Developing cross-platform mobile applications</td>
-    </tr>
-    <tr>
-      <td align="center">🎨</td>
-      <td>Crafting beautiful and intuitive user interfaces</td>
-    </tr>
-    <tr>
-      <td align="center">🚀</td>
-      <td>Exploring new frameworks and best practices</td>
-    </tr>
-  </table>
-</div>
-
----
-
-## 💬 Let's Talk About
-
-<div align="center">
-
-| 💻 Full-Stack Development | 📱 Mobile App Development |
-|:-------------------------:|:-------------------------:|
-| 🎨 UI/UX Design Principles | ⚡ Code Optimization |
-| 🤝 Collaboration Opportunities | 🔮 Technology Trends |
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ariekaprianda&theme=radical&hide_border=true)
 
 </div>
 
 ---
 
-## 🎓 Education & Learning
-
-Currently pursuing **Computer Science** at **Universitas Binaniaga**, with continuous engagement in online courses, technical communities, and self-directed learning to stay updated with the latest technologies and industry standards.
+## 🏆 Featured Projects
 
 <div align="center">
-  
-  ```ascii
-  📚 Always Learning | 💡 Always Growing | 🚀 Always Building
-  ```
-  
+
+### 🎯 Recent Work
+
+</div>
+
+| Project | Description | Tech Stack | Link |
+|---------|-------------|------------|------|
+| **🚀 E-Commerce Platform** | Full-featured online shopping platform with payment integration | React, Node.js, MongoDB, Stripe | [View](https://github.com/ariekaprianda) |
+| **📱 TaskMaster Mobile** | Cross-platform productivity app with cloud sync | React Native, Firebase, Redux | [View](https://github.com/ariekaprianda) |
+| **🎨 Portfolio CMS** | Custom content management system for creatives | Laravel, Vue.js, MySQL | [View](https://github.com/ariekaprianda) |
+| **🤖 AI Chatbot** | Intelligent customer service bot with NLP | Python, TensorFlow, Flask | [View](https://github.com/ariekaprianda) |
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ariekaprianda&theme=react-dark&hide_border=true&area=true)
+
 </div>
 
 ---
 
-## 🎮 Fun Zone
+## 💡 What I'm Currently Working On
 
-<div align="center">
+- 🔨 Building a **SaaS platform** for small businesses
+- 📚 Learning **TypeScript** and **Next.js** for better web apps
+- 🤝 Contributing to **open-source projects**
+- 📱 Developing a **mobile fitness tracking app**
+- 🌱 Exploring **AI/ML integration** in web applications
 
-### 🕹️ Pac-Man Eating Bugs
-```
-ᗧ··········💎💎💎💎💎💎💎💎💎💎
+---
+
+## 🎯 2024 Goals
+
+- ✅ Master advanced React patterns
+- ✅ Contribute to 10+ open source projects
+- ✅ Build and launch 3 mobile apps
+- ✅ Learn cloud architecture (AWS/GCP)
+- ✅ Share knowledge through technical blogging
+
+---
+
+## 📝 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+- 🔥 Building Scalable APIs with Node.js Best Practices
+- 💡 React Performance Optimization Techniques
+- 🎨 Modern CSS: From Flexbox to Grid
+- 🚀 Deploying Full Stack Apps to Production
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+## 💬 Let's Talk About...
+
+```typescript
+const interests = {
+    code: ['Clean Architecture', 'Design Patterns', 'Testing'],
+    design: ['Minimalism', 'User Experience', 'Accessibility'],
+    tools: ['VS Code Extensions', 'Productivity Hacks', 'Git Workflows'],
+    random: ['Coffee ☕', 'Tech Podcasts 🎧', 'Sci-Fi Movies 🎬']
+};
 ```
 
-### 🎯 Achievement Progress
+---
+
+## 🤝 Open for Collaboration!
+
+I'm always excited to work on:
+- 🚀 Innovative web/mobile applications
+- 🌍 Open source projects
+- 💡 Startup ideas and MVPs
+- 📚 Educational content and tutorials
+- 🎨 UI/UX design projects
+
+**Feel free to reach out if you want to build something amazing together!**
+
+---
+
+## 📫 How to Reach Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ari-eka-prianda-78714232a)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ARIEKAPRIANDA47)
+[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ariekaprianda)
+[![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://yourportfolio.com)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
+
+</div>
+
+---
+
+## 🏅 Achievements & Certifications
+
+<div align="center">
+
+| Certification | Provider | Year |
+|---------------|----------|------|
+| 🎓 **Full Stack Web Development** | FreeCodeCamp | 2023 |
+| 🎓 **React - The Complete Guide** | Udemy | 2023 |
+| 🎓 **AWS Certified Developer** | Amazon Web Services | 2024 |
+| 🎓 **Google Mobile Web Specialist** | Google | 2024 |
+
+</div>
+
+---
+
+## 💼 Work Experience
+
+```yaml
+current:
+  position: "Full Stack Developer"
+  company: "Tech Startup"
+  duration: "2023 - Present"
+  responsibilities:
+    - Leading frontend architecture decisions
+    - Developing scalable REST APIs
+    - Mentoring junior developers
+
+previous:
+  - position: "Mobile Developer"
+    company: "Digital Agency"
+    duration: "2021 - 2023"
+  
+  - position: "Junior Web Developer"
+    company: "Software House"
+    duration: "2020 - 2021"
 ```
-████████████████████░░ 90% Coffee Consumed
-████████████████████░░ 90% Problems Solved
-███████████████████░░░ 85% New Tech Learned
-████████████████░░░░░░ 80% Code Quality
+
+---
+
+## 🎨 Design Philosophy
+
+> "Good design is obvious. Great design is transparent." - Joe Sparano
+
+I believe in:
+- 🎯 **User-First Approach** - Always prioritize user experience
+- 🧩 **Modular Code** - Write reusable and maintainable components
+- ⚡ **Performance** - Optimize for speed and efficiency
+- 🔒 **Security** - Never compromise on data protection
+- 📱 **Responsive** - Design for all devices and screen sizes
+
+---
+
+## 📚 Learning Path
+
+<div align="center">
+
+```mermaid
+graph LR
+    A[HTML/CSS/JS] --> B[React/Vue]
+    B --> C[Node.js/Express]
+    C --> D[Database Design]
+    D --> E[DevOps/Docker]
+    E --> F[Cloud Services]
+    F --> G[Microservices]
+    G --> H[System Design]
 ```
 
 </div>
 
 ---
 
-## 🙌 Thank You for Visiting!
+## 🎮 GitHub Trophies
 
 <div align="center">
-  <p><strong>Thanks for scrolling through my profile!</strong></p>
-  <p>I hope you found something inspiring or useful here.</p>
-  <p>Keep learning, keep building, and keep being awesome! 💻🚀</p>
+
+![Trophy](https://github-profile-trophy.vercel.app/?username=ariekaprianda&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1)
+
 </div>
 
+---
+
+## 📌 Pinned Repositories
+
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ariekaprianda&repo=repo-name-1&theme=radical)](https://github.com/ariekaprianda/repo-name-1)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ariekaprianda&repo=repo-name-2&theme=radical)](https://github.com/ariekaprianda/repo-name-2)
+
 </div>
 
-<br>
+---
+
+## 💖 Support My Work
+
+If you like my work and want to support me:
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-%23FFDD00.svg?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/yourusername)
+[![PayPal](https://img.shields.io/badge/PayPal-%2300457C.svg?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.me/yourusername)
+
 </div>
 
+---
+
+## 🎵 Spotify Playing
+
 <div align="center">
-  <img src="https://img.shields.io/badge/%F0%9F%91%80_Profile_Views-Appreciated!-yellow?style=for-the-badge" alt="Profile Views" />
-  <p><strong>Thanks for checking out my profile! 😊</strong></p>
+
+[![Spotify](https://novatorem-ariekaprianda.vercel.app/api/spotify)](https://open.spotify.com/user/yourusername)
+
+</div>
+
+---
+
+## 📊 Weekly Development Breakdown
+
+```text
+TypeScript   12 hrs 30 mins  ████████████░░░░░░░░░   48.2%
+JavaScript   6 hrs 15 mins   ██████░░░░░░░░░░░░░░░   24.1%
+React        4 hrs 20 mins   ████░░░░░░░░░░░░░░░░░   16.7%
+CSS          2 hrs 10 mins   ██░░░░░░░░░░░░░░░░░░░    8.4%
+Other        40 mins         █░░░░░░░░░░░░░░░░░░░░    2.6%
+```
+
+---
+
+## 🌟 Random Dev Quote
+
+<div align="center">
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+![Snake animation](https://github.com/ariekaprianda/ariekaprianda/blob/output/github-contribution-grid-snake.svg)
+
 </div>
 
 ---
 
 <div align="center">
-  <sub>Made with ❤️ by <a href="https://github.com/ariekakagerou">Ari Eka Prianda</a></sub>
+
+### 💖 Thanks for visiting!
+
+![Visitor Count](https://profile-counter.glitch.me/ariekaprianda/count.svg)
+
+**"The only way to do great work is to love what you do." - Steve Jobs**
+
+### Show some ❤️ by starring some of the repositories!
+
+</div>
+
+---
+
+<div align="center">
+
+### 📝 Latest Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+</div>
+
+---
+
+<div align="center">
+
+⭐️ From [Ari Eka Prianda](https://github.com/ariekaprianda) with 💙
+
+**Let's connect and build something incredible together!** 🚀
+
 </div>

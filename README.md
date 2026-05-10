@@ -3,6 +3,26 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00D1FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Mobile+App+Developer;UI%2FUX+Enthusiast;Problem+Solver;Lifelong+Learner;Open+to+Collaboration!" alt="Typing SVG" />
 </div>
+# 👋 Hello, I'm Ari Eka Prianda
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7DF1E&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Mobile+App+Developer;UI%2FUX+Enthusiast;Problem+Solver;Lifelong+Learner;Open+to+Collaboration!" alt="Typing SVG" />
+</div>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="200" />
+</div>
+
+<p align="center">
+  <b>✨ Crafting Digital Experiences | Transforming Ideas into Reality ✨</b>
+</p>
+
+### 🔗 Connect With Me
+
+<div align="center">
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ari-eka-prianda-78714232a)
+  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ARIEKAPRIANDA47)
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ariekakagerou&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D1FF&icon_color=00D1FF" height="170" />

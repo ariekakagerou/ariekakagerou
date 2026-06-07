@@ -64,20 +64,20 @@ const ari = {
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ariekaprianda&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F7DF1E&icon_color=F7DF1E&text_color=ffffff" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ariekaprianda&theme=radical&hide_border=true&background=0D1117&ring=F7DF1E&fire=F7DF1E&currStreakLabel=F7DF1E" width="48%" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ariekakagerou&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F7DF1E&icon_color=F7DF1E&text_color=ffffff" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ariekakagerou&theme=radical&hide_border=true&background=0D1117&ring=F7DF1E&fire=F7DF1E&currStreakLabel=F7DF1E" width="48%" alt="GitHub Streak" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ariekaprianda&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F7DF1E&text_color=ffffff" width="40%" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ariekakagerou&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F7DF1E&text_color=ffffff" width="40%" alt="Top Languages" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ariekaprianda&theme=react-dark&hide_border=true&bg_color=0D1117&color=F7DF1E&line=F7DF1E&point=ffffff" width="96%" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ariekakagerou&theme=react-dark&hide_border=true&bg_color=0D1117&color=F7DF1E&line=F7DF1E&point=ffffff" width="96%" alt="Activity Graph" />
 </div>
 
 ---
@@ -119,7 +119,7 @@ const ari = {
 
 <br/>
 
-<a href="https://github.com/ariekaprianda?tab=repositories">
+<a href="https://github.com/ariekakagerou?tab=repositories">
   <img src="https://img.shields.io/badge/View%20All%20Projects-%23F7DF1E.svg?style=for-the-badge&logo=github&logoColor=black" alt="View All Projects"/>
 </a>
 
@@ -132,9 +132,9 @@ const ari = {
 <div align="center">
   <p><i>(Note: Animasi Snake di bawah ini akan muncul setelah kamu mengaktifkan GitHub Action sesuai panduan)</i></p>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ariekaprianda/ariekaprianda/output/github-contribution-grid-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ariekaprianda/ariekaprianda/output/github-contribution-grid-snake.svg"/>
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/ariekaprianda/ariekaprianda/output/github-contribution-grid-snake.svg"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ariekakagerou/ariekakagerou/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ariekakagerou/ariekakagerou/output/github-contribution-grid-snake.svg"/>
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/ariekakagerou/ariekakagerou/output/github-contribution-grid-snake.svg"/>
   </picture>
 </div>
 
@@ -177,7 +177,7 @@ jobs:
 
 <div align="center">
   <h3>👁️ Profile Views</h3>
-  <img src="https://komarev.com/ghpvc/?username=ariekaprianda&color=F7DF1E&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=ariekakagerou&color=F7DF1E&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
   
   <br/><br/>
   

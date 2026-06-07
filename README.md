@@ -7,7 +7,11 @@
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="150" />
+  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="120" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="120" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="120" />
 </div>
 
 <br/>
@@ -75,6 +79,39 @@ const ari = {
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ariekaprianda&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=F7DF1E" width="96%" alt="Activity Graph" />
+</div>
+
+---
+
+## 🎮 Fun Zone & Interactive
+
+<div align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder=true" alt="Jokes Card" width="48%" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quotes Card" width="48%" />
+</div>
+
+<br/>
+
+<div align="center">
+  <h3>🎲 Play Tic-Tac-Toe with me!</h3>
+  <p><i>(Note: Kamu perlu setup GitHub Action <a href="https://github.com/marcizhu/Readme-Tic-Tac-Toe">Readme-Tic-Tac-Toe</a> untuk membuat game ini interaktif)</i></p>
+  <table>
+    <tr>
+      <td><a href="#"><img src="https://raw.githubusercontent.com/marcizhu/Readme-Tic-Tac-Toe/main/images/blank.png" width="50"/></a></td>
+      <td><a href="#"><img src="https://raw.githubusercontent.com/marcizhu/Readme-Tic-Tac-Toe/main/images/blank.png" width="50"/></a></td>
+      <td><a href="#"><img src="https://raw.githubusercontent.com/marcizhu/Readme-Tic-Tac-Toe/main/images/blank.png" width="50"/></a></td>
+    </tr>
+    <tr>
+      <td><a href="#"><img src="https://raw.githubusercontent.com/marcizhu/Readme-Tic-Tac-Toe/main/images/blank.png" width="50"/></a></td>
+      <td><a href="#"><img src="https://raw.githubusercontent.com/marcizhu/Readme-Tic-Tac-Toe/main/images/x.png" width="50"/></a></td>
+      <td><a href="#"><img src="https://raw.githubusercontent.com/marcizhu/Readme-Tic-Tac-Toe/main/images/blank.png" width="50"/></a></td>
+    </tr>
+    <tr>
+      <td><a href="#"><img src="https://raw.githubusercontent.com/marcizhu/Readme-Tic-Tac-Toe/main/images/o.png" width="50"/></a></td>
+      <td><a href="#"><img src="https://raw.githubusercontent.com/marcizhu/Readme-Tic-Tac-Toe/main/images/blank.png" width="50"/></a></td>
+      <td><a href="#"><img src="https://raw.githubusercontent.com/marcizhu/Readme-Tic-Tac-Toe/main/images/blank.png" width="50"/></a></td>
+    </tr>
+  </table>
 </div>
 
 ---

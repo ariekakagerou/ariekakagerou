@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Ari%20Eka%20Prianda&fontSize=80&fontAlignY=35&desc=Full%20Stack%20%26%20Mobile%20Developer&descAlignY=55&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Ari%20Eka%20Prianda&fontSize=80&fontAlignY=35&desc=Full%20Stack%20and%20Mobile%20Developer&descAlignY=55&descAlign=50" alt="Banner" />
 </div>
 
 <div align="center">
@@ -64,21 +64,20 @@ const ari = {
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ariekaprianda&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F7DF1E" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ariekaprianda&theme=tokyonight&hide_border=true&background=0D1117&ring=F7DF1E&fire=F7DF1E&currStreakLabel=F7DF1E" width="48%" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ariekaprianda&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F7DF1E&icon_color=F7DF1E&text_color=ffffff" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ariekaprianda&theme=radical&hide_border=true&background=0D1117&ring=F7DF1E&fire=F7DF1E&currStreakLabel=F7DF1E" width="48%" alt="GitHub Streak" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ariekaprianda&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F7DF1E" width="40%" alt="Top Languages" />
-  <img src="https://github-profile-trophy.vercel.app/?username=ariekaprianda&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" width="48%" alt="GitHub Trophies" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ariekaprianda&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F7DF1E&text_color=ffffff" width="40%" alt="Top Languages" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ariekaprianda&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=F7DF1E" width="96%" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ariekaprianda&theme=react-dark&hide_border=true&bg_color=0D1117&color=F7DF1E&line=F7DF1E&point=ffffff" width="96%" alt="Activity Graph" />
 </div>
 
 ---
@@ -93,25 +92,16 @@ const ari = {
 <br/>
 
 <div align="center">
-  <h3>🎲 Play Tic-Tac-Toe with me!</h3>
-  <p><i>(Note: Kamu perlu setup GitHub Action <a href="https://github.com/marcizhu/Readme-Tic-Tac-Toe">Readme-Tic-Tac-Toe</a> untuk membuat game ini interaktif)</i></p>
-  <table>
-    <tr>
-      <td><a href="#"><img src="https://raw.githubusercontent.com/marcizhu/Readme-Tic-Tac-Toe/main/images/blank.png" width="50"/></a></td>
-      <td><a href="#"><img src="https://raw.githubusercontent.com/marcizhu/Readme-Tic-Tac-Toe/main/images/blank.png" width="50"/></a></td>
-      <td><a href="#"><img src="https://raw.githubusercontent.com/marcizhu/Readme-Tic-Tac-Toe/main/images/blank.png" width="50"/></a></td>
-    </tr>
-    <tr>
-      <td><a href="#"><img src="https://raw.githubusercontent.com/marcizhu/Readme-Tic-Tac-Toe/main/images/blank.png" width="50"/></a></td>
-      <td><a href="#"><img src="https://raw.githubusercontent.com/marcizhu/Readme-Tic-Tac-Toe/main/images/x.png" width="50"/></a></td>
-      <td><a href="#"><img src="https://raw.githubusercontent.com/marcizhu/Readme-Tic-Tac-Toe/main/images/blank.png" width="50"/></a></td>
-    </tr>
-    <tr>
-      <td><a href="#"><img src="https://raw.githubusercontent.com/marcizhu/Readme-Tic-Tac-Toe/main/images/o.png" width="50"/></a></td>
-      <td><a href="#"><img src="https://raw.githubusercontent.com/marcizhu/Readme-Tic-Tac-Toe/main/images/blank.png" width="50"/></a></td>
-      <td><a href="#"><img src="https://raw.githubusercontent.com/marcizhu/Readme-Tic-Tac-Toe/main/images/blank.png" width="50"/></a></td>
-    </tr>
-  </table>
+  <h3>🎮 Game Center</h3>
+  <p>Mainkan beberapa mini-game seru di browser Anda:</p>
+  <br/>
+  <a href="https://play2048.co/">
+    <img src="https://img.shields.io/badge/Mainkan-2048-F0E68C?style=for-the-badge&logo=appveyor&logoColor=black" alt="2048"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://tetris.com/play-tetris">
+    <img src="https://img.shields.io/badge/Mainkan-Tetris-FF4500?style=for-the-badge&logo=nintendo&logoColor=white" alt="Tetris"/>
+  </a>
 </div>
 
 ---
@@ -140,6 +130,7 @@ const ari = {
 ## 🐍 Contribution Snake
 
 <div align="center">
+  <p><i>(Note: Animasi Snake di bawah ini akan muncul setelah kamu mengaktifkan GitHub Action sesuai panduan)</i></p>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ariekaprianda/ariekaprianda/output/github-contribution-grid-snake-dark.svg"/>
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ariekaprianda/ariekaprianda/output/github-contribution-grid-snake.svg"/>

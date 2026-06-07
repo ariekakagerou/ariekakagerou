@@ -1,132 +1,80 @@
 <div align="center">
-
-```
-╔═══════════════════════════════════════════════════════════════╗
-║                                                               ║
-║   ██╗  ██╗███████╗██╗     ██╗      ██████╗                   ║
-║   ██║  ██║██╔════╝██║     ██║     ██╔═══██╗                  ║
-║   ███████║█████╗  ██║     ██║     ██║   ██║                  ║
-║   ██╔══██║██╔══╝  ██║     ██║     ██║   ██║                  ║
-║   ██║  ██║███████╗███████╗███████╗╚██████╔╝                  ║
-║   ╚═╝  ╚═╝╚══════╝╚══════╝╚══════╝ ╚═════╝                  ║
-║                                                               ║
-╚═══════════════════════════════════════════════════════════════╝
-```
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Ari%20Eka%20Prianda&fontSize=80&fontAlignY=35&desc=Full%20Stack%20%26%20Mobile%20Developer&descAlignY=55&descAlign=50" />
 </div>
 
-<h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  &nbsp;Hi, I'm Ari Eka Prianda&nbsp;
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=22&pause=1000&color=F7DF1E&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Mobile+App+Developer;UI%2FUX+Enthusiast;Problem+Solver;Lifelong+Learner;Open+to+Collaboration!" alt="Typing SVG" />
+</div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7DF1E&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Mobile+App+Developer;UI%2FUX+Enthusiast;Problem+Solver;Lifelong+Learner;Open+to+Collaboration!" alt="Typing SVG" />
+  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="150" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="200" />
-</div>
-
-<br/>
-
-<div align="center">
-
-```javascript
-const ari = {
-  role     : "Full Stack & Mobile Developer",
-  passion  : "Crafting Digital Experiences",
-  mission  : "Transforming Ideas into Reality ✨",
-  status   : "Open to Collaboration 🚀"
-};
-```
-
+  <a href="https://www.linkedin.com/in/ari-eka-prianda-78714232a">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.instagram.com/ARIEKAPRIANDA47">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
 </div>
 
 ---
 
-## 🔗 Connect With Me
+## 👨‍💻 About Me
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/ari-eka-prianda-78714232a">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.instagram.com/ARIEKAPRIANDA47">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-</div>
+```javascript
+const ari = {
+  pronouns: "He" | "Him",
+  role: "Full Stack & Mobile Developer",
+  focus: ["Javascript", "Typescript", "Python", "Dart", "PHP"],
+  tools: ["React", "Node.js", "Flutter", "Docker", "Laravel"],
+  architecture: ["Microservices", "Event-Driven", "REST API"],
+  mission: "Crafting Digital Experiences & Transforming Ideas into Reality ✨",
+  status: "Open to Collaboration 🚀"
+}
+```
 
 ---
 
 ## 🛠️ Tech Stack & Skills
 
 <div align="center">
-
-### 💻 Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-
-### 🌐 Frontend
-![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-%234FC08D.svg?style=for-the-badge&logo=vuedotjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2306B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-
-### ⚙️ Backend
-![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)
-
-### 📱 Mobile
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
-
-### 🗄️ Database
-![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-%23003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-
-### 🔧 Tools & Platforms
-![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-%23007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
-
+  <p><strong>Languages</strong></p>
+  <img src="https://skillicons.dev/icons?i=js,ts,python,dart,php,html,css" alt="Languages" />
+  
+  <p><strong>Frontend & Backend Frameworks</strong></p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,nodejs,express,laravel" alt="Frameworks" />
+  
+  <p><strong>Mobile & Database</strong></p>
+  <img src="https://skillicons.dev/icons?i=flutter,firebase,mysql,postgres,mongodb,sqlite" alt="Mobile and DB" />
+  
+  <p><strong>Tools & Platforms</strong></p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,figma,postman" alt="Tools" />
 </div>
 
 ---
 
-## 📊 GitHub Stats & Streak
+## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ariekaprianda&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F7DF1E&icon_color=F7DF1E&text_color=ffffff" width="48%" alt="GitHub Stats"/>
-  &nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ariekaprianda&theme=radical&hide_border=true&background=0D1117&ring=F7DF1E&fire=F7DF1E&currStreakLabel=F7DF1E" width="48%" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ariekaprianda&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F7DF1E" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ariekaprianda&theme=tokyonight&hide_border=true&background=0D1117&ring=F7DF1E&fire=F7DF1E&currStreakLabel=F7DF1E" width="48%" alt="GitHub Streak" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ariekaprianda&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F7DF1E&text_color=ffffff" width="40%" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ariekaprianda&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F7DF1E" width="40%" alt="Top Languages" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ariekaprianda&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" width="48%" alt="GitHub Trophies" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ariekaprianda&theme=react-dark&hide_border=true&bg_color=0D1117&color=F7DF1E&line=F7DF1E&point=ffffff" width="96%" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ariekaprianda&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=F7DF1E" width="96%" alt="Activity Graph" />
 </div>
 
 ---
@@ -142,14 +90,12 @@ const ari = {
 | **UI/UX Design** | Beautiful interface design | Figma · Tailwind | [View →](#) |
 | **API Service** | RESTful backend service | Express · PostgreSQL | [View →](#) |
 
-</div>
-
 <br/>
 
-<div align="center">
-  <a href="https://github.com/ariekaprianda?tab=repositories">
-    <img src="https://img.shields.io/badge/View%20All%20Projects-%23F7DF1E.svg?style=for-the-badge&logo=github&logoColor=black" alt="View All Projects"/>
-  </a>
+<a href="https://github.com/ariekaprianda?tab=repositories">
+  <img src="https://img.shields.io/badge/View%20All%20Projects-%23F7DF1E.svg?style=for-the-badge&logo=github&logoColor=black" alt="View All Projects"/>
+</a>
+
 </div>
 
 ---
@@ -166,7 +112,6 @@ const ari = {
 
 <details>
 <summary>💡 <b>Cara Aktifkan Snake Animation (klik untuk lihat)</b></summary>
-
 <br/>
 
 Buat file `.github/workflows/snake.yml` di repo ini:
@@ -203,18 +148,14 @@ jobs:
 ---
 
 <div align="center">
+  <h3>👁️ Profile Views</h3>
+  <img src="https://komarev.com/ghpvc/?username=ariekaprianda&color=F7DF1E&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+  
+  <br/><br/>
+  
+  <i>⭐ Jika kamu menyukai karya saya, jangan lupa berikan star pada repository ini!</i>
+  
+  <br/><br/>
 
-### 👁️ Profile Views
-![Profile Views](https://komarev.com/ghpvc/?username=ariekaprianda&color=F7DF1E&style=for-the-badge&label=PROFILE+VIEWS)
-
-<br/>
-
-*⭐ If you like my work, consider giving a star to my repositories!*
-
-```
-╔══════════════════════════════════════════╗
-║   Thanks for visiting! Happy Coding 🚀   ║
-╚══════════════════════════════════════════╝
-```
-
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=18&pause=1000&color=FFFFFF&center=true&vCenter=true&width=400&lines=Thanks+for+visiting!;Happy+Coding+🚀" alt="Thanks" />
 </div>

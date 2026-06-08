@@ -1,151 +1,226 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Ari%20Eka%20Prianda&fontSize=80&fontAlignY=35&desc=Full%20Stack%20and%20Mobile%20Developer&descAlignY=55&descAlign=50" alt="Banner" />
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                    CINEMATIC HEADER                        -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:03001C,30:301E67,60:5B8FB9,100:03001C&height=280&section=header&text=Ari%20Eka%20Prianda&fontSize=68&fontColor=ffffff&fontAlignY=40&desc=▸%20Full%20Stack%20%26%20Mobile%20Developer%20◂&descSize=18&descAlignY=62&descColor=86efac&animation=blinking&rotate=0" width="100%"/>
+
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=22&pause=1000&color=F7DF1E&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Mobile+App+Developer;UI%2FUX+Enthusiast;Problem+Solver;Lifelong+Learner;Open+to+Collaboration!" alt="Typing SVG" />
-</div>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="120" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="120" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="120" />
+<!-- LIVE BADGES ROW -->
+![](https://img.shields.io/badge/Status-Open%20to%20Work-22c55e?style=flat-square&logo=checkmarx&logoColor=white&labelColor=14532d)
+![](https://img.shields.io/badge/Focus-Full%20Stack%20%26%20Mobile-7c3aed?style=flat-square&logo=lightning&logoColor=white)
+![](https://img.shields.io/badge/Location-Indonesia%20🇮🇩-ef4444?style=flat-square)
+![](https://img.shields.io/badge/Coffee-Powered%20☕-92400e?style=flat-square)
+
+<br/>
+
+<!-- ANIMATED MULTI-LINE TYPING -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2500&pause=600&color=86EFAC&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=→+Architecting+scalable+web+%26+mobile+apps;→+Clean+code+%7C+Clean+architecture+%7C+Clean+UI;→+From+wireframe+to+production+in+record+time" alt="Typing SVG" />
+
+<br/>
+
+<!-- SOCIAL LINKS WITH PULSE EFFECT -->
+<a href="https://www.linkedin.com/in/ari-eka-prianda-78714232a">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="32"/>
+</a>&nbsp;
+<a href="https://www.instagram.com/ARIEKAPRIANDA47">
+  <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="32"/>
+</a>&nbsp;
+<a href="https://github.com/ariekakagerou">
+  <img src="https://img.shields.io/badge/GitHub-ariekakagerou-181717?style=for-the-badge&logo=github&logoColor=white" height="32"/>
+</a>&nbsp;
+<img src="https://komarev.com/ghpvc/?username=ariekakagerou&color=7c3aed&style=for-the-badge&label=👁️+VIEWS" height="32"/>
+
 </div>
 
 <br/>
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/ari-eka-prianda-78714232a">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://www.instagram.com/ARIEKAPRIANDA47">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-</div>
-
 ---
 
-## 👨‍💻 About Me
+## ⚡ &nbsp; About Me
 
-```javascript
-const ari = {
-  pronouns: "He" | "Him",
-  role: "Full Stack & Mobile Developer",
-  focus: ["Javascript", "Typescript", "Python", "Dart", "PHP"],
-  tools: ["React", "Node.js", "Flutter", "Docker", "Laravel"],
-  architecture: ["Microservices", "Event-Driven", "REST API"],
-  mission: "Crafting Digital Experiences & Transforming Ideas into Reality ✨",
-  status: "Open to Collaboration 🚀"
-}
+<img align="right" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="280" alt="coding gif"/>
+
+```typescript
+const developer = {
+  name:      "Ari Eka Prianda",
+  alias:     "ariekakagerou",
+  role:      ["Full Stack Dev", "Mobile Dev", "UI/UX"],
+
+  stack: {
+    languages:  ["JS", "TS", "Python", "Dart", "PHP"],
+    frontend:   ["React", "Next.js", "Vue", "Tailwind"],
+    backend:    ["Node.js", "Express", "Laravel"],
+    mobile:     ["Flutter"],
+    databases:  ["PostgreSQL", "MongoDB", "Firebase"],
+    devOps:     ["Docker", "GitHub Actions", "Nginx"],
+  },
+
+  softSkills: [
+    "Problem Solver 🔍",
+    "Fast Learner 🧠",
+    "Team Player 🤝",
+    "Detail-Oriented 🎯",
+  ],
+
+  currentlyLearning: ["Golang", "Web3", "AI/ML Integration"],
+  seeking:           "Next big challenge 🚀",
+};
 ```
 
+<br clear="right"/>
+
 ---
 
-## 🛠️ Tech Stack & Skills
+## 🛠️ &nbsp; Tech Stack
 
 <div align="center">
-  <p><strong>Languages</strong></p>
-  <img src="https://skillicons.dev/icons?i=js,ts,python,dart,php,html,css" alt="Languages" />
-  
-  <p><strong>Frontend & Backend Frameworks</strong></p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,nodejs,express,laravel" alt="Frameworks" />
-  
-  <p><strong>Mobile & Database</strong></p>
-  <img src="https://skillicons.dev/icons?i=flutter,firebase,mysql,postgres,mongodb,sqlite" alt="Mobile and DB" />
-  
-  <p><strong>Tools & Platforms</strong></p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,figma,postman" alt="Tools" />
+
+<table>
+<tr>
+<td valign="top" width="33%">
+
+### 🌐 Frontend
+<div align="center">
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,vue&theme=dark&perline=5"/>
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,figma&theme=dark&perline=5"/>
+</div>
+
+</td>
+<td valign="top" width="33%">
+
+### ⚙️ Backend & DB
+<div align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,express,laravel,python&theme=dark&perline=5"/>
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,firebase,sqlite&theme=dark&perline=5"/>
+</div>
+
+</td>
+<td valign="top" width="33%">
+
+### 📦 DevOps & Tools
+<div align="center">
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode&theme=dark&perline=5"/>
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=flutter,postman,dart,php&theme=dark&perline=5"/>
+</div>
+
+</td>
+</tr>
+</table>
+
 </div>
 
 ---
 
-## 📊 GitHub Analytics
+## 📈 &nbsp; GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ariekakagerou&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F7DF1E&icon_color=F7DF1E&text_color=ffffff" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ariekakagerou&theme=radical&hide_border=true&background=0D1117&ring=F7DF1E&fire=F7DF1E&currStreakLabel=F7DF1E" width="48%" alt="GitHub Streak" />
+
+<!-- ANIMATED STATS CARDS -->
+<a href="https://github.com/ariekakagerou">
+  <img src="https://github-readme-stats.vercel.app/api?username=ariekakagerou&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=86efac&icon_color=86efac&text_color=c9d1d9&border_radius=16&include_all_commits=true&count_private=true" width="49%" />
+</a>
+<a href="https://github.com/ariekakagerou">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ariekakagerou&theme=tokyonight&hide_border=true&background=0D1117&ring=86efac&fire=86efac&currStreakLabel=86efac&border_radius=16" width="49%" />
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/ariekakagerou">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ariekakagerou&layout=donut-vertical&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=86efac&text_color=c9d1d9&border_radius=16&langs_count=8&size_weight=0.5&count_weight=0.5" width="35%" />
+</a>
+<a href="https://github.com/ariekakagerou">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ariekakagerou&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=86efac&text_color=c9d1d9&border_radius=16&layout=compact" width="60%" />
+</a>
+
 </div>
 
 <br/>
 
+<!-- ANIMATED TROPHY -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ariekakagerou&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F7DF1E&text_color=ffffff" width="40%" alt="Top Languages" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ariekakagerou&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&margin-h=6&column=7" width="100%" />
 </div>
 
 <br/>
 
+<!-- ACTIVITY GRAPH with area fill -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ariekakagerou&theme=react-dark&hide_border=true&bg_color=0D1117&color=F7DF1E&line=F7DF1E&point=ffffff" width="96%" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ariekakagerou&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=86efac&line=22c55e&point=ffffff&area=true&area_color=14532d&radius=8" width="98%" />
 </div>
 
 ---
 
-## 🎮 Fun Zone & Interactive
+## 🏆 &nbsp; Achievements & Highlights
 
 <div align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder=true" alt="Jokes Card" width="48%" />
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quotes Card" width="48%" />
-</div>
 
-<br/>
+|  | Achievement | Details |
+|:---:|:---|:---|
+| 🥇 | **Prolific Builder** | Built 10+ production-ready applications |
+| 🌍 | **Full Stack Expertise** | End-to-end development from DB to UI |
+| 📱 | **Cross-Platform** | Web, iOS & Android from a single codebase |
+| 🔌 | **API Architect** | Designed & deployed REST APIs at scale |
+| 🎨 | **UI/UX Minded** | Every pixel, every interaction — intentional |
+| 🤝 | **Collaborator** | Active open-source contributor |
 
-<div align="center">
-  <h3>🎮 Game Center</h3>
-  <p>Mainkan beberapa mini-game seru di browser Anda:</p>
-  <br/>
-  <a href="https://play2048.co/">
-    <img src="https://img.shields.io/badge/Mainkan-2048-F0E68C?style=for-the-badge&logo=appveyor&logoColor=black" alt="2048"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://tetris.com/play-tetris">
-    <img src="https://img.shields.io/badge/Mainkan-Tetris-FF4500?style=for-the-badge&logo=nintendo&logoColor=white" alt="Tetris"/>
-  </a>
 </div>
 
 ---
 
-## 🚀 Projects Showcase
+## 🚀 &nbsp; Featured Projects
 
 <div align="center">
 
-| 🏷️ Project | 📝 Description | 🛠️ Stack | 🔗 Link |
-|:---:|:---:|:---:|:---:|
-| **Project Alpha** | Full stack web application | React · Node.js · MongoDB | [View →](#) |
-| **Mobile App** | Cross-platform mobile experience | Flutter · Firebase | [View →](#) |
-| **UI/UX Design** | Beautiful interface design | Figma · Tailwind | [View →](#) |
-| **API Service** | RESTful backend service | Express · PostgreSQL | [View →](#) |
+<a href="#">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ariekakagerou&repo=ariekakagerou&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=86efac&icon_color=86efac&text_color=c9d1d9&border_radius=16" />
+</a>
+
+<br/><br/>
+
+| 🚀 Project | 📝 Description | 🛠️ Stack | ⭐ |
+|:---|:---|:---|:---:|
+| **⚡ Project Alpha** | Scalable full-stack web platform | `React` `Node.js` `MongoDB` | [→](#) |
+| **📱 Mobile App** | Cross-platform Flutter app | `Flutter` `Firebase` `Dart` | [→](#) |
+| **🔌 API Service** | High-performance REST backend | `Express` `PostgreSQL` `Docker` | [→](#) |
+| **🎨 Design System** | Component library & UI kit | `Figma` `Tailwind` `Storybook` | [→](#) |
+| **🤖 AI Integration** | LLM-powered web features | `Python` `FastAPI` `React` | [→](#) |
 
 <br/>
 
 <a href="https://github.com/ariekakagerou?tab=repositories">
-  <img src="https://img.shields.io/badge/View%20All%20Projects-%23F7DF1E.svg?style=for-the-badge&logo=github&logoColor=black" alt="View All Projects"/>
+  <img src="https://img.shields.io/badge/🗂️──View%20All%20Repositories──🗂️-7c3aed?style=for-the-badge" />
 </a>
 
 </div>
 
 ---
 
-## 🐍 Contribution Snake
+## 🐍 &nbsp; Contribution Snake
 
 <div align="center">
-  <p><i>(Note: Animasi Snake di bawah ini akan muncul setelah kamu mengaktifkan GitHub Action sesuai panduan)</i></p>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ariekakagerou/ariekakagerou/output/github-contribution-grid-snake-dark.svg"/>
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ariekakagerou/ariekakagerou/output/github-contribution-grid-snake.svg"/>
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/ariekakagerou/ariekakagerou/output/github-contribution-grid-snake.svg"/>
+    <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/ariekakagerou/ariekakagerou/output/github-contribution-grid-snake-dark.svg" width="98%"/>
   </picture>
 </div>
 
 <details>
-<summary>💡 <b>Cara Aktifkan Snake Animation (klik untuk lihat)</b></summary>
+<summary>⚙️ <b>Setup Snake Animation (klik untuk buka)</b></summary>
 <br/>
 
-Buat file `.github/workflows/snake.yml` di repo ini:
+Buat file `.github/workflows/snake.yml`:
 
 ```yaml
-name: Generate Snake
+name: Generate Snake Animation
 
 on:
   schedule:
@@ -175,15 +250,44 @@ jobs:
 
 ---
 
-<div align="center">
-  <h3>👁️ Profile Views</h3>
-  <img src="https://komarev.com/ghpvc/?username=ariekakagerou&color=F7DF1E&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
-  
-  <br/><br/>
-  
-  <i>⭐ Jika kamu menyukai karya saya, jangan lupa berikan star pada repository ini!</i>
-  
-  <br/><br/>
+## 🎵 &nbsp; Vibes While Coding
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=18&pause=1000&color=FFFFFF&center=true&vCenter=true&width=400&lines=Thanks+for+visiting!;Happy+Coding+🚀" alt="Thanks" />
+<div align="center">
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_UID&cover_image=true&theme=natemoo-re&show_offline=true&background_color=0d1117&interchange=false&bar_color=86efac&bar_color_cover=false" alt="Spotify Now Playing" />
+</div>
+
+> 💡 *Ganti `YOUR_SPOTIFY_UID` dengan UID Spotify kamu. Setup di: [spotify-github-profile](https://github.com/kittinan/spotify-github-profile)*
+
+---
+
+## 💬 &nbsp; Quote of the Day
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="68%"/>
+</div>
+
+---
+
+<!-- ANIMATED FOOTER -->
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=shark&color=0:03001C,50:301E67,100:03001C&height=140&section=footer&animation=fadeIn" width="100%"/>
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=3000&pause=1000&color=86EFAC&center=true&vCenter=true&width=500&lines=Thanks+for+visiting+✨;Star+a+repo+if+you+found+it+useful+⭐;Let's+build+something+amazing+🚀" />
+
+<br/><br/>
+
+<!-- ANIMATED DOTS -->
+![](https://img.shields.io/badge/●-22c55e?style=flat-square)
+![](https://img.shields.io/badge/●-7c3aed?style=flat-square)
+![](https://img.shields.io/badge/●-3b82f6?style=flat-square)
+![](https://img.shields.io/badge/●-ec4899?style=flat-square)
+![](https://img.shields.io/badge/●-f59e0b?style=flat-square)
+
+<br/><br/>
+
+*Crafted with ❤️ &nbsp;·&nbsp; Last updated: 2025*
+
 </div>

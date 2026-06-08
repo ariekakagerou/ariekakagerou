@@ -134,11 +134,13 @@ const developer = {
 <br/><br/>
 
 <a href="https://github.com/ariekakagerou">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ariekakagerou&layout=donut-vertical&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=86efac&text_color=c9d1d9&border_radius=16&langs_count=8&size_weight=0.5&count_weight=0.5" width="35%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ariekakagerou&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=86efac&text_color=c9d1d9&border_radius=16&langs_count=6" width="45%" />
 </a>
 <a href="https://wakatime.com/@ariekakagerou">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ariekakagerou&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=86efac&text_color=c9d1d9&border_radius=16&layout=compact" width="60%" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ariekakagerou&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=86efac&text_color=c9d1d9&border_radius=16&layout=compact" width="49%" />
 </a>
+
+> 💡 **WakaTime Error?** Pastikan di *Settings WakaTime -> Profile*, kamu sudah mencentang **"Display coding activity publicly"** dan "Display languages...". Juga pastikan *username* WakaTime kamu sama dengan di GitHub (`ariekakagerou`).
 
 </div>
 
@@ -253,10 +255,8 @@ jobs:
 ## 🎵 &nbsp; Vibes While Coding
 
 <div align="center">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=kittinan&cover_image=true&theme=natemoo-re&show_offline=true&background_color=0d1117&interchange=false&bar_color=86efac&bar_color_cover=false" alt="Spotify Now Playing" />
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31koywc3fgvuzlym55bbj4x6fjsy&cover_image=true&theme=natemoo-re&show_offline=true&background_color=0d1117&interchange=false&bar_color=86efac&bar_color_cover=false" alt="Spotify Now Playing" />
 </div>
-
-> 💡 *Ganti `uid=kittinan` di atas dengan UID Spotify kamu agar menampilkan lagu yang sedang kamu putar.*
 
 ---
 

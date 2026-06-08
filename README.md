@@ -4,7 +4,7 @@
 <!--                    CINEMATIC HEADER                        -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:03001C,30:301E67,60:5B8FB9,100:03001C&height=280&section=header&text=Ari%20Eka%20Prianda&fontSize=68&fontColor=ffffff&fontAlignY=40&desc=▸%20Full%20Stack%20%26%20Mobile%20Developer%20◂&descSize=18&descAlignY=62&descColor=86efac&animation=blinking&rotate=0" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=03001C,301E67,5B8FB9&height=280&section=header&text=Ari%20Eka%20Prianda&fontSize=68&fontColor=ffffff&fontAlignY=40&desc=Full%20Stack%20&%20Mobile%20Developer&descSize=18&descAlignY=62&descColor=86efac&animation=fadeIn" width="100%"/>
 
 </div>
 
@@ -19,7 +19,7 @@
 <br/>
 
 <!-- ANIMATED MULTI-LINE TYPING -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2500&pause=600&color=86EFAC&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=→+Architecting+scalable+web+%26+mobile+apps;→+Clean+code+%7C+Clean+architecture+%7C+Clean+UI;→+From+wireframe+to+production+in+record+time" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2500&pause=600&color=86EFAC&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Architecting+scalable+web+and+mobile+apps;Clean+code+|+Clean+architecture+|+Clean+UI;From+wireframe+to+production+in+record+time" alt="Typing SVG" />
 
 <br/>
 
@@ -125,7 +125,7 @@ const developer = {
 
 <!-- ANIMATED STATS CARDS -->
 <a href="https://github.com/ariekakagerou">
-  <img src="https://github-readme-stats.vercel.app/api?username=ariekakagerou&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=86efac&icon_color=86efac&text_color=c9d1d9&border_radius=16&include_all_commits=true&count_private=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ariekakagerou&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=86efac&icon_color=86efac&text_color=c9d1d9&border_radius=16&include_all_commits=true" width="49%" />
 </a>
 <a href="https://github.com/ariekakagerou">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=ariekakagerou&theme=tokyonight&hide_border=true&background=0D1117&ring=86efac&fire=86efac&currStreakLabel=86efac&border_radius=16" width="49%" />
@@ -136,7 +136,7 @@ const developer = {
 <a href="https://github.com/ariekakagerou">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ariekakagerou&layout=donut-vertical&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=86efac&text_color=c9d1d9&border_radius=16&langs_count=8&size_weight=0.5&count_weight=0.5" width="35%" />
 </a>
-<a href="https://github.com/ariekakagerou">
+<a href="https://wakatime.com/@ariekakagerou">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ariekakagerou&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=86efac&text_color=c9d1d9&border_radius=16&layout=compact" width="60%" />
 </a>
 
@@ -253,10 +253,10 @@ jobs:
 ## 🎵 &nbsp; Vibes While Coding
 
 <div align="center">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_UID&cover_image=true&theme=natemoo-re&show_offline=true&background_color=0d1117&interchange=false&bar_color=86efac&bar_color_cover=false" alt="Spotify Now Playing" />
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=kittinan&cover_image=true&theme=natemoo-re&show_offline=true&background_color=0d1117&interchange=false&bar_color=86efac&bar_color_cover=false" alt="Spotify Now Playing" />
 </div>
 
-> 💡 *Ganti `YOUR_SPOTIFY_UID` dengan UID Spotify kamu. Setup di: [spotify-github-profile](https://github.com/kittinan/spotify-github-profile)*
+> 💡 *Ganti `uid=kittinan` di atas dengan UID Spotify kamu agar menampilkan lagu yang sedang kamu putar.*
 
 ---
 
@@ -271,11 +271,11 @@ jobs:
 <!-- ANIMATED FOOTER -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=shark&color=0:03001C,50:301E67,100:03001C&height=140&section=footer&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=03001C,301E67,03001C&height=140&section=footer" width="100%"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=3000&pause=1000&color=86EFAC&center=true&vCenter=true&width=500&lines=Thanks+for+visiting+✨;Star+a+repo+if+you+found+it+useful+⭐;Let's+build+something+amazing+🚀" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=16&duration=3000&pause=1000&color=86EFAC&center=true&vCenter=true&width=500&lines=Thanks+for+visiting;Star+a+repo+if+you+found+it+useful;Let's+build+something+amazing" />
 
 <br/><br/>
 

@@ -1,119 +1,145 @@
-<!-- Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=4facfe,00f2fe,4facfe&height=300&section=header&text=Halo!%20Saya%20Ari%20Eka%20Prianda&fontSize=50&fontAlignY=35&desc=Full%20Stack%20&%20Mobile%20Developer&descAlignY=55&descAlign=50&animation=fadeIn" alt="Banner" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Ari%20Eka%20Prianda&fontSize=80&fontAlignY=35&desc=Full%20Stack%20and%20Mobile%20Developer&descAlignY=55&descAlign=50" alt="Banner" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00F2FE&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Mobile+App+Developer;UI%2FUX+Enthusiast;Problem+Solver;Lifelong+Learner;Mari+Berkolaborasi!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=22&pause=1000&color=F7DF1E&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Mobile+App+Developer;UI%2FUX+Enthusiast;Problem+Solver;Lifelong+Learner;Open+to+Collaboration!" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/ari-eka-prianda-78714232a" target="_blank">
+  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="120" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="120" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="120" />
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/ari-eka-prianda-78714232a">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://www.instagram.com/ARIEKAPRIANDA47" target="_blank">
+  <a href="https://www.instagram.com/ARIEKAPRIANDA47">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </div>
 
-<br/>
+---
 
-<div align="center">
-  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="100" />
-</div>
+## 👨‍💻 About Me
 
-## 👨‍💻 Tentang Saya
-
-<table align="center">
-  <tr>
-    <td width="55%" valign="top">
-      <b>Selamat datang! 👋</b> Saya adalah seorang developer yang senang mewujudkan ide menjadi nyata melalui kode. Saya suka mengeksplorasi teknologi baru dan membangun aplikasi yang skalabel dan interaktif.
-      <br><br>
-      🌱 Saat ini sedang mempelajari <b>Arsitektur Cloud</b> dan <b>Integrasi AI</b>.<br>
-      💬 Tanyakan saya tentang <b>React, Flutter, Laravel, dan Node.js</b>.<br>
-      ⚡ Fakta unik: Saya suka memecahkan masalah kompleks sambil mendengarkan musik lo-fi.
-    </td>
-    <td width="45%" valign="top">
-      <pre lang="json">
-{
-  "name": "Ari Eka Prianda",
-  "role": "Full Stack & Mobile Dev",
-  "location": "Indonesia 🇮🇩",
-  "hobbies": ["Coding", "Gaming", "Design"],
-  "coffee_addict": true,
-  "status": "Open to work 🚀"
+```javascript
+const ari = {
+  pronouns: "He" | "Him",
+  role: "Full Stack & Mobile Developer",
+  focus: ["Javascript", "Typescript", "Python", "Dart", "PHP"],
+  tools: ["React", "Node.js", "Flutter", "Docker", "Laravel"],
+  architecture: ["Microservices", "Event-Driven", "REST API"],
+  mission: "Crafting Digital Experiences & Transforming Ideas into Reality ✨",
+  status: "Open to Collaboration 🚀"
 }
-      </pre>
-    </td>
-  </tr>
-</table>
+```
 
-## 🛠️ Tech Stack & Tools
+---
+
+## 🛠️ Tech Stack & Skills
 
 <div align="center">
-  <p><strong>Frontend & Mobile</strong></p>
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,flutter,dart,html,css" alt="Frontend" />
+  <p><strong>Languages</strong></p>
+  <img src="https://skillicons.dev/icons?i=js,ts,python,dart,php,html,css" alt="Languages" />
   
-  <p><strong>Backend & Database</strong></p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,python,mysql,postgres,mongodb,firebase" alt="Backend" />
+  <p><strong>Frontend & Backend Frameworks</strong></p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,nodejs,express,laravel" alt="Frameworks" />
   
-  <p><strong>DevOps & Tools</strong></p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman,figma" alt="Tools" />
+  <p><strong>Mobile & Database</strong></p>
+  <img src="https://skillicons.dev/icons?i=flutter,firebase,mysql,postgres,mongodb,sqlite" alt="Mobile and DB" />
+  
+  <p><strong>Tools & Platforms</strong></p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,figma,postman" alt="Tools" />
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ariekakagerou&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F7DF1E&icon_color=F7DF1E&text_color=ffffff" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ariekakagerou&theme=radical&hide_border=true&background=0D1117&ring=F7DF1E&fire=F7DF1E&currStreakLabel=F7DF1E" width="48%" alt="GitHub Streak" />
 </div>
 
 <br/>
 
-## 📊 Analitik GitHub
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ariekakagerou&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F2FE&icon_color=00F2FE" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ariekakagerou&theme=tokyonight&hide_border=true&background=0D1117&ring=00F2FE&fire=00F2FE&currStreakLabel=00F2FE" width="48%" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ariekakagerou&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F7DF1E&text_color=ffffff" width="40%" alt="Top Languages" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ariekakagerou&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F2FE" width="45%" alt="Top Languages" />
-  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder=true" alt="Jokes Card" width="45%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ariekakagerou&theme=react-dark&hide_border=true&bg_color=0D1117&color=F7DF1E&line=F7DF1E&point=ffffff" width="96%" alt="Activity Graph" />
+</div>
+
+---
+
+## 🎮 Fun Zone & Interactive
+
+<div align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder=true" alt="Jokes Card" width="48%" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quotes Card" width="48%" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ariekakagerou&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00F2FE&line=4facfe&point=ffffff" width="96%" alt="Activity Graph" />
+  <h3>🎮 Game Center</h3>
+  <p>Mainkan beberapa mini-game seru di browser Anda:</p>
+  <br/>
+  <a href="https://play2048.co/">
+    <img src="https://img.shields.io/badge/Mainkan-2048-F0E68C?style=for-the-badge&logo=appveyor&logoColor=black" alt="2048"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://tetris.com/play-tetris">
+    <img src="https://img.shields.io/badge/Mainkan-Tetris-FF4500?style=for-the-badge&logo=nintendo&logoColor=white" alt="Tetris"/>
+  </a>
 </div>
 
-## 🚀 Showcase Proyek
+---
+
+## 🚀 Projects Showcase
 
 <div align="center">
 
-| 🏷️ Proyek | 📝 Deskripsi | 🛠️ Teknologi | 🔗 Tautan |
-|:---:|:---|:---|:---:|
-| **[Project Alpha](#)** | Aplikasi web full stack berkinerja tinggi. | `React` `Node.js` `MongoDB` | [🔗 Lihat](#) |
-| **[Mobile Experience](#)** | Aplikasi seluler lintas platform (cross-platform). | `Flutter` `Firebase` | [🔗 Lihat](#) |
-| **[API Gateway](#)** | Layanan backend RESTful yang skalabel. | `Express` `PostgreSQL` | [🔗 Lihat](#) |
+| 🏷️ Project | 📝 Description | 🛠️ Stack | 🔗 Link |
+|:---:|:---:|:---:|:---:|
+| **Project Alpha** | Full stack web application | React · Node.js · MongoDB | [View →](#) |
+| **Mobile App** | Cross-platform mobile experience | Flutter · Firebase | [View →](#) |
+| **UI/UX Design** | Beautiful interface design | Figma · Tailwind | [View →](#) |
+| **API Service** | RESTful backend service | Express · PostgreSQL | [View →](#) |
 
 <br/>
 
 <a href="https://github.com/ariekakagerou?tab=repositories">
-  <img src="https://img.shields.io/badge/Lihat%20Semua%20Proyek-0D1117?style=for-the-badge&logo=github&logoColor=00F2FE&borderColor=00F2FE" alt="Explore Projects"/>
+  <img src="https://img.shields.io/badge/View%20All%20Projects-%23F7DF1E.svg?style=for-the-badge&logo=github&logoColor=black" alt="View All Projects"/>
 </a>
 
 </div>
 
-## 🐍 Animasi Kontribusi
+---
+
+## 🐍 Contribution Snake
 
 <div align="center">
-  <p><i>Ular ini memakan kontribusi yang saya buat!</i></p>
+  <p><i>(Note: Animasi Snake di bawah ini akan muncul setelah kamu mengaktifkan GitHub Action sesuai panduan)</i></p>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ariekakagerou/ariekakagerou/output/github-contribution-grid-snake-dark.svg"/>
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ariekakagerou/ariekakagerou/output/github-contribution-grid-snake.svg"/>
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/ariekakagerou/ariekakagerou/output/github-contribution-grid-snake.svg" width="100%" />
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/ariekakagerou/ariekakagerou/output/github-contribution-grid-snake.svg"/>
   </picture>
 </div>
 
 <details>
-<summary>💡 <b>Cara Aktifkan Animasi Snake (klik untuk lihat)</b></summary>
+<summary>💡 <b>Cara Aktifkan Snake Animation (klik untuk lihat)</b></summary>
 <br/>
 
 Buat file `.github/workflows/snake.yml` di repo ini:
@@ -150,9 +176,14 @@ jobs:
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ariekakagerou&color=00F2FE&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+  <h3>👁️ Profile Views</h3>
+  <img src="https://komarev.com/ghpvc/?username=ariekakagerou&color=F7DF1E&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+  
   <br/><br/>
-  <b>Terima kasih sudah berkunjung! Jika kamu menyukai repositori ini, jangan lupa berikan ⭐</b>
+  
+  <i>⭐ Jika kamu menyukai karya saya, jangan lupa berikan star pada repository ini!</i>
+  
   <br/><br/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=00f2fe,4facfe,00f2fe&height=100&section=footer" alt="Footer" width="100%" />
+
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=18&pause=1000&color=FFFFFF&center=true&vCenter=true&width=400&lines=Thanks+for+visiting!;Happy+Coding+🚀" alt="Thanks" />
 </div>

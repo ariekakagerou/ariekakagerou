@@ -1,3 +1,14 @@
+![Wave Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Ari%20Eka%20Prianda&fontSize=45&fontColor=ffffff&animation=fadeIn&desc=Web%20Developer%20%7C%20Information%20Systems&descAlignY=58&descSize=18)
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hi+there!+I'm+Ari+Eka+Prianda+%F0%9F%91%8B;Information+Technology+Graduate;Web+Developer+%26+Information+Systems+Enthusiast;Learn+%E2%86%92+Build+%E2%86%92+Improve+%E2%86%92+Repeat;&font=Fira%20Code&center=true&width=600&height=45&duration=3000&pause=1000&color=F75C7E&vCenter=true" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" alt="waving hand"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="120" alt="coding gif"/>
+</p>
+
 # 💫 About Me:
 ## 👨‍💻 About Me<br><br>Hi! I'm **Ari Eka Prianda** 👋<br><br>I'm an **Information Technology graduate** who enjoys turning ideas into practical digital solutions. My main interest is **Web Development and Information Systems**, especially building applications that help simplify and organize everyday processes.<br><br>I enjoy learning new technologies, experimenting with projects, and continuously improving my development skills. Currently, I'm looking forward to growing as a developer through **real-world projects, collaboration, and new opportunities**.<br><br>> 💡 **Learn → Build → Improve → Repeat**<br>
 
@@ -7,6 +18,17 @@
 - 🤝 Open to **collaboration** on Web & Information Systems projects
 - 🎯 2026 goal: contribute to open-source and ship more production-ready apps
 - ⚡ Fun fact: I believe good documentation is as important as good code
+
+## 🎧 Now Playing / Music Vibe:
+[![Spotify](https://novatorem-ariekakagerou.vercel.app/api/spotify)](https://open.spotify.com/user/)
+<!-- Widget di atas butuh setup sekali di Vercel (fork repo novatorem) + hubungkan akun Spotify agar menampilkan lagu yang sedang diputar secara real-time -->
+
+[![Spotify Now Playing](https://spotify-github-profile.vercel.app/api/view.svg?uid=&cover_image=true&theme=novatorem&show_offline=true&background_color=121212)](https://open.spotify.com)
+<!-- Widget alternatif: spotify-github-profile, isi 'uid' dengan ID Spotify kamu setelah setup Action -->
+
+## 🐍 Contribution Snake (Animated):
+![snake gif](https://raw.githubusercontent.com/ariekakagerou/ariekakagerou/output/github-contribution-grid-snake.svg)
+<!-- Aktifkan via GitHub Action "Snake Generator" di repo profil agar animasi ular ini otomatis ter-update -->
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aepkgr_)

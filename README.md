@@ -1,250 +1,78 @@
-<div align="center">
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                    CINEMATIC HEADER                        -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=03001C,301E67,5B8FB9&height=280&section=header&text=Ari%20Eka%20Prianda&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=Full%20Stack%20%26%20Mobile%20Developer&descSize=18&descAlignY=58&descColor=86efac&animation=fadeIn" width="100%"/>
-
-<!-- TYPING ANIMATION -->
-<a href="#">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=86EFAC&center=true&vCenter=true&width=560&lines=Building+clean+%26+scalable+apps;Web+%2B+Mobile+%2B+Backend;Turning+ideas+into+shipped+products;Open+to+new+opportunities+%F0%9F%9A%80" alt="Typing SVG" />
-</a>
-
-<br/>
-
-<!-- LIVE BADGES ROW -->
-![](https://img.shields.io/badge/Status-Open%20to%20Work-22c55e?style=for-the-badge&logo=checkmarx&logoColor=white&labelColor=14532d)
-![](https://img.shields.io/badge/Focus-Full%20Stack%20%26%20Mobile-7c3aed?style=for-the-badge&logo=lightning&logoColor=white)
-![](https://img.shields.io/badge/Based%20in-Indonesia-0ea5e9?style=for-the-badge&logo=googlemaps&logoColor=white)
-
-<br/>
-
-<!-- SOCIAL LINKS -->
-<p>
-<a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://linkedin.com/in/username"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://instagram.com/username"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-</p>
-
-<img src="https://komarev.com/ghpvc/?username=username&label=Profile%20Views&color=7c3aed&style=for-the-badge" alt="profile views"/>
-
-</div>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                       ABOUT ME                              -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-## 👨‍💻 Tentang Saya
-
-```yaml
-name: Ari Eka Prianda
-role: Full Stack & Mobile Developer
-location: Indonesia
-current_focus: Membangun aplikasi web & mobile yang scalable
-learning: Arsitektur cloud-native & AI integration
-fun_fact: Ngoding paling produktif setelah jam 10 malam ☕
-```
-
-- 🔭 Sedang mengerjakan proyek **full stack** (web + mobile + backend API)
-- 🌱 Terus belajar tentang **system design**, **clean architecture**, dan **DevOps**
-- 💬 Tanya saya soal **React, Flutter, Node.js**, atau arsitektur aplikasi
-- ⚡ Percaya bahwa kode yang baik itu **sederhana, terbaca, dan teruji**
-- 📫 Cara terbaik menghubungi saya: lihat badge kontak di atas
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                     TECH STACK                              -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-## 🛠️ Tech Stack
-
-<table align="center">
-<tr>
-<td valign="top" width="33%">
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-
-</td>
-<td valign="top" width="33%">
-
-**Mobile**
-
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-</td>
-<td valign="top" width="33%">
-
-**Backend**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-
-</td>
-</tr>
-<tr>
-<td valign="top" width="33%">
-
-**Database**
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
-</td>
-<td valign="top" width="33%">
-
-**DevOps & Tools**
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-</td>
-<td valign="top" width="33%">
-
-**Design & Lainnya**
-
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                    GITHUB STATS                             -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=username&show_icons=true&theme=react&hide_border=true&bg_color=03001C&title_color=86efac&icon_color=7c3aed&text_color=ffffff&count_private=true" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=username&layout=compact&theme=react&hide_border=true&bg_color=03001C&title_color=86efac&text_color=ffffff" width="49%"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=username&theme=react&hide_border=true&background=03001C&stroke=5B8FB9&ring=7c3aed&fire=86efac&currStreakLabel=86efac" width="60%"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=username&theme=react-dark&bg_color=03001C&color=86efac&line=7c3aed&point=ffffff&hide_border=true" width="97%"/>
-
-</div>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                    TROPHIES                                 -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-### 🏆 GitHub Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=username&theme=algolia&no-frame=true&row=1&column=6&margin-w=8" />
-
-</div>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                 FEATURED PROJECTS                           -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-## 🚀 Proyek Unggulan
-
-<table align="center" width="100%">
-<tr>
-<td width="50%">
-
-### 📱 Nama Proyek 1
-Deskripsi singkat proyek: apa yang dibangun, masalah apa yang diselesaikan, dan teknologi utama yang digunakan.
-
-`Flutter` `Firebase` `REST API`
-
-[🔗 Live Demo](#) · [📂 Source Code](#)
-
-</td>
-<td width="50%">
-
-### 🌐 Nama Proyek 2
-Deskripsi singkat proyek: apa yang dibangun, masalah apa yang diselesaikan, dan teknologi utama yang digunakan.
-
-`Next.js` `Node.js` `PostgreSQL`
-
-[🔗 Live Demo](#) · [📂 Source Code](#)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### ⚙️ Nama Proyek 3
-Deskripsi singkat proyek: apa yang dibangun, masalah apa yang diselesaikan, dan teknologi utama yang digunakan.
-
-`NestJS` `Docker` `Redis`
-
-[🔗 Live Demo](#) · [📂 Source Code](#)
-
-</td>
-<td width="50%">
-
-### 🎨 Nama Proyek 4
-Deskripsi singkat proyek: apa yang dibangun, masalah apa yang diselesaikan, dan teknologi utama yang digunakan.
-
-`React` `Tailwind` `Figma`
-
-[🔗 Live Demo](#) · [📂 Source Code](#)
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                    CONTRIBUTION SNAKE                       -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-### 🐍 Contribution Snake
-
-<img src="https://raw.githubusercontent.com/username/username/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-
-</div>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                       FOOTER                                -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-### 💌 Mari Terhubung
-
-Terbuka untuk kolaborasi, proyek freelance, maupun kesempatan full-time.
-Jangan ragu untuk menghubungi lewat salah satu kanal di atas!
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=5B8FB9,301E67,03001C&height=120&section=footer" width="100%"/>
-
-</div>
+# 💫 About Me:
+## 👨‍💻 About Me<br><br>Hi! I'm **Ari Eka Prianda** 👋<br><br>I'm an **Information Technology graduate** who enjoys turning ideas into practical digital solutions. My main interest is **Web Development and Information Systems**, especially building applications that help simplify and organize everyday processes.<br><br>I enjoy learning new technologies, experimenting with projects, and continuously improving my development skills. Currently, I'm looking forward to growing as a developer through **real-world projects, collaboration, and new opportunities**.<br><br>> 💡 **Learn → Build → Improve → Repeat**<br>
+
+## 🚀 Currently:
+- 🔭 Working on personal & collaborative **Web Development** projects
+- 🌱 Deepening my skills in **backend architecture, APIs, and clean code practices**
+- 🤝 Open to **collaboration** on Web & Information Systems projects
+- 🎯 2026 goal: contribute to open-source and ship more production-ready apps
+- ⚡ Fun fact: I believe good documentation is as important as good code
+
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aepkgr_)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ARI EKA PRIANDA)
+[![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@ARI EKA PRIANDA)
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ariekaprianda@gmail.com)
+
+## 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![Livewire](https://img.shields.io/badge/livewire-%234e56a6.svg?style=for-the-badge&logo=livewire&logoColor=white)
+![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+## 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=ariekakagerou&theme=calm_pink&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=ariekakagerou&theme=calm_pink&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=ariekakagerou&theme=calm_pink&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=ariekakagerou&theme=calm_pink&no-frame=false&no-bg=false&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=ariekakagerou&limit=5&theme=cobalt&combine_all_yearly_contributions=true)
+
+## 📌 Featured Projects
+> Ganti tautan & deskripsi di bawah sesuai proyek nyata kamu.
+
+| Project | Description | Tech |
+|---|---|---|
+| [Project Name 1](#) | Singkat: apa masalah yang diselesaikan proyek ini | Laravel, MySQL |
+| [Project Name 2](#) | Singkat: fitur utama / dampaknya | React, Node.js |
+| [Project Name 3](#) | Singkat: konteks pembelajaran atau kolaborasi | Flutter, Firebase |
+
+## 🎯 Roadmap Belajar
+- [ ] Memperdalam arsitektur backend (Clean Architecture / Microservices)
+- [ ] Eksplorasi Go untuk service berperforma tinggi
+- [ ] Berkontribusi ke proyek open-source
+- [ ] Sertifikasi terkait Cloud / DevOps
+
+## 🤝 Let's Connect
+Terbuka untuk diskusi proyek, kolaborasi, atau sekadar ngobrol soal teknologi — jangan ragu hubungi lewat email atau LinkedIn di atas!
+
+---
+[![](https://komarev.com/ghpvc/?username=ariekakagerou&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
